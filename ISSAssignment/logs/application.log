@@ -1,0 +1,1329 @@
+INFO    2024-06-03 19:29:49,746 [main] corejava.Basics:53 - Name of the first student:null id:0 marks:0
+INFO    2024-06-03 19:29:49,746 [main] corejava.Basics:54 - Name of the second student:null id:0 marks:0
+INFO    2024-06-03 19:29:49,752 [main] corejava.Basics:64 - Name of the first student:null id:11 marks:97
+INFO    2024-06-03 19:29:49,752 [main] corejava.Basics:65 - Name of the second student:null id:12 marks:85
+INFO    2024-06-03 19:32:02,339 [main] corejava.Basics:54 - Name of the first student:null id:0 marks:0
+INFO    2024-06-03 19:32:02,344 [main] corejava.Basics:55 - Name of the second student:null id:0 marks:0
+INFO    2024-06-03 19:32:02,344 [main] corejava.Basics:65 - Name of the first student:Karina id:11 marks:97
+INFO    2024-06-03 19:32:02,344 [main] corejava.Basics:66 - Name of the second student:Kashish id:12 marks:85
+INFO    2024-06-03 19:40:17,827 [main] corejava.Basics:63 - Name of the first student:null id:0 marks:0
+INFO    2024-06-03 19:40:17,837 [main] corejava.Basics:64 - Name of the second student:null id:0 marks:0
+INFO    2024-06-03 19:40:17,837 [main] corejava.Basics:74 - Name of the first student:Karina id:11 marks:97
+INFO    2024-06-03 19:40:17,837 [main] corejava.Basics:75 - Name of the second student:Kashish id:12 marks:85
+INFO    2024-06-03 19:40:17,837 [main] corejava.Basics:78 - Karina has greater marks.
+INFO    2024-06-03 19:44:39,528 [main] corejava.Basics:65 - Name of the first student:null id:0 marks:0
+INFO    2024-06-03 19:44:39,533 [main] corejava.Basics:66 - Name of the second student:null id:0 marks:0
+INFO    2024-06-03 19:44:39,533 [main] corejava.Basics:76 - Name of the first student:Karina id:11 marks:97
+INFO    2024-06-03 19:44:39,533 [main] corejava.Basics:77 - Name of the second student:Kashish id:12 marks:85
+INFO    2024-06-03 19:44:39,533 [main] corejava.Basics:80 - Karina has greater marks.
+INFO    2024-06-03 20:18:35,777 [main] corejava.DatatypeBasics:28 - Addition result of byte:-123
+INFO    2024-06-03 20:18:35,782 [main] corejava.DatatypeBasics:29 - Subtraction result of byte:121
+INFO    2024-06-04 14:32:03,188 [main] corejava.DatatypeBasics:31 - Addition result of byte:-123
+INFO    2024-06-04 14:32:03,188 [main] corejava.DatatypeBasics:32 - Subtraction result of byte:121
+INFO    2024-06-04 14:32:03,188 [main] corejava.DatatypeBasics:41 - Addition result of short:1200
+INFO    2024-06-04 14:32:03,188 [main] corejava.DatatypeBasics:42 - Subtraction result of short:800
+INFO    2024-06-04 14:32:03,188 [main] corejava.DatatypeBasics:52 - XOR result of int:-358
+INFO    2024-06-04 14:32:03,188 [main] corejava.DatatypeBasics:53 - OR result of int:-322
+INFO    2024-06-04 14:32:03,188 [main] corejava.DatatypeBasics:54 - AND result of int:36
+INFO    2024-06-04 14:32:03,188 [main] corejava.DatatypeBasics:63 - Multiplication result of long:900000
+INFO    2024-06-04 14:32:03,188 [main] corejava.DatatypeBasics:64 - Division result of long:0
+INFO    2024-06-04 14:57:37,125 [main] corejava.DatatypeBasics:35 - Addition result of byte:-123
+INFO    2024-06-04 14:57:37,125 [main] corejava.DatatypeBasics:36 - Subtraction result of byte:121
+INFO    2024-06-04 14:57:37,125 [main] corejava.DatatypeBasics:45 - Addition result of short:1200
+INFO    2024-06-04 14:57:37,125 [main] corejava.DatatypeBasics:46 - Subtraction result of short:800
+INFO    2024-06-04 14:57:37,125 [main] corejava.DatatypeBasics:56 - XOR result of int:-358
+INFO    2024-06-04 14:57:37,125 [main] corejava.DatatypeBasics:57 - OR result of int:-322
+INFO    2024-06-04 14:57:37,125 [main] corejava.DatatypeBasics:58 - AND result of int:36
+INFO    2024-06-04 14:57:37,125 [main] corejava.DatatypeBasics:67 - Multiplication result of long:900000
+INFO    2024-06-04 14:57:37,125 [main] corejava.DatatypeBasics:68 - Division result of long:0
+INFO    2024-06-04 14:57:37,141 [main] corejava.DatatypeBasics:77 - Multiplication result of float:1315.37
+INFO    2024-06-04 14:57:37,141 [main] corejava.DatatypeBasics:78 - Division result of float:7.4360905
+INFO    2024-06-04 14:57:37,141 [main] corejava.DatatypeBasics:87 - Multiplication result of double:67085.0229
+INFO    2024-06-04 14:57:37,141 [main] corejava.DatatypeBasics:88 - Division result of double:14.886488902130196
+INFO    2024-06-04 14:57:37,141 [main] corejava.DatatypeBasics:95 - Character with the given int value is:a
+INFO    2024-06-04 14:57:37,141 [main] corejava.DatatypeBasics:101 - This is printed when boolean value is true
+INFO    2024-06-04 14:57:37,141 [main] corejava.DatatypeBasics:109 - corejava.Employee@769c9116
+INFO    2024-06-04 21:23:12,711 [main] corejava.ModifierBasics:52 - Value of private value is:90
+INFO    2024-06-04 21:23:12,715 [main] corejava.ModifierBasics:53 - Value of protected value is:9
+INFO    2024-06-04 21:23:12,715 [main] corejava.ModifierBasics:54 - Value of default value is:11
+INFO    2024-06-04 21:23:12,715 [main] corejava.ModifierBasics:55 - Value of public value is:11
+INFO    2024-06-04 21:25:58,288 [main] corejava.ModifierBasics:52 - Value of private value is:90
+INFO    2024-06-04 21:25:58,293 [main] corejava.ModifierBasics:53 - Value of protected value is:9
+INFO    2024-06-04 21:25:58,293 [main] corejava.ModifierBasics:54 - Value of default value is:11
+INFO    2024-06-04 21:25:58,293 [main] corejava.ModifierBasics:55 - Value of public value is:12
+INFO    2024-06-04 21:30:46,414 [main] corejava.ModifierBasics:52 - Value of private value for parent object is:90
+INFO    2024-06-04 21:30:46,418 [main] corejava.ModifierBasics:53 - Value of protected value for parent object is:9
+INFO    2024-06-04 21:30:46,418 [main] corejava.ModifierBasics:54 - Value of default value for parent object is:11
+INFO    2024-06-04 21:30:46,418 [main] corejava.ModifierBasics:55 - Value of public value for parent object is:12
+INFO    2024-06-04 21:30:46,418 [main] corejava.ModifierBasics:62 - Value of private value for child object is:900
+INFO    2024-06-04 21:30:46,418 [main] corejava.ModifierBasics:63 - Value of protected value for child object is:100
+INFO    2024-06-04 21:30:46,418 [main] corejava.ModifierBasics:64 - Value of default value for child object is:110
+INFO    2024-06-04 21:30:46,418 [main] corejava.ModifierBasics:65 - Value of public value for child object is:120
+INFO    2024-06-04 21:32:21,353 [main] corejava.ModifierBasics:52 - Value of private variable for parent object is:90
+INFO    2024-06-04 21:32:21,355 [main] corejava.ModifierBasics:53 - Value of protected variable for parent object is:10
+INFO    2024-06-04 21:32:21,355 [main] corejava.ModifierBasics:54 - Value of default variable for parent object is:11
+INFO    2024-06-04 21:32:21,355 [main] corejava.ModifierBasics:55 - Value of public variable for parent object is:12
+INFO    2024-06-04 21:32:21,355 [main] corejava.ModifierBasics:62 - Value of private variable for child object is:900
+INFO    2024-06-04 21:32:21,355 [main] corejava.ModifierBasics:63 - Value of protected variable for child object is:100
+INFO    2024-06-04 21:32:21,355 [main] corejava.ModifierBasics:64 - Value of default variable for child object is:110
+INFO    2024-06-04 21:32:21,355 [main] corejava.ModifierBasics:65 - Value of public variable for child object is:120
+INFO    2024-06-05 11:11:06,250 [main] corejava.ModifierBasics:32 - Value of private variable for parent object is:90
+INFO    2024-06-05 11:11:06,255 [main] corejava.ModifierBasics:33 - Value of protected variable for parent object is:10
+INFO    2024-06-05 11:11:06,255 [main] corejava.ModifierBasics:34 - Value of default variable for parent object is:11
+INFO    2024-06-05 11:11:06,255 [main] corejava.ModifierBasics:35 - Value of public variable for parent object is:12
+INFO    2024-06-05 11:11:06,255 [main] corejava.ModifierBasics:42 - Value of private variable for child object is:900
+INFO    2024-06-05 11:11:06,255 [main] corejava.ModifierBasics:43 - Value of protected variable for child object is:100
+INFO    2024-06-05 11:11:06,255 [main] corejava.ModifierBasics:44 - Value of default variable for child object is:110
+INFO    2024-06-05 11:11:06,255 [main] corejava.ModifierBasics:45 - Value of public variable for child object is:120
+INFO    2024-06-05 11:12:02,111 [main] temp.ModifierCheck:28 - We don't have the access to the protected variable
+INFO    2024-06-05 11:12:02,127 [main] temp.ModifierCheck:29 - The value of public variable of child from other package is:1200
+INFO    2024-06-05 11:49:47,015 [main] corejava.ConstructorBasics:69 - With no-arg constructor,model_name is:BMW
+INFO    2024-06-05 11:49:47,027 [main] corejava.ConstructorBasics:70 - With no-arg constructor,model_no is:1918
+INFO    2024-06-05 11:49:47,027 [main] corejava.ConstructorBasics:71 - With no-arg constructor,color of the car is:White
+INFO    2024-06-05 11:49:47,027 [main] corejava.ConstructorBasics:75 - With parameterised constructor,model_name is:Mercedes
+INFO    2024-06-05 11:49:47,027 [main] corejava.ConstructorBasics:76 - With parameterised constructor,model_no is:1010
+INFO    2024-06-05 11:49:47,027 [main] corejava.ConstructorBasics:77 - With parameterised constructor,color of the car is:Black
+INFO    2024-06-05 11:49:47,027 [main] corejava.ConstructorBasics:81 - With copy constructor,model_name is:Mercedes
+INFO    2024-06-05 11:49:47,027 [main] corejava.ConstructorBasics:82 - With copy constructor,model_no is:1010
+INFO    2024-06-05 11:49:47,032 [main] corejava.ConstructorBasics:83 - With copy constructor,color of the car is:Mercedes
+INFO    2024-06-05 12:19:41,659 [main] corejava.FinalKeywordBasics:57 - Value of addition is30
+INFO    2024-06-05 12:19:59,751 [main] corejava.FinalKeywordBasics:57 - Value of addition is:30
+INFO    2024-06-05 14:42:42,182 [main] corejava.FinalKeywordBasics:61 - Value of addition is:30
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:18 - Even numbers between 1 to 10 are:
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:20 - 2
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:20 - 4
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:20 - 6
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:20 - 8
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:20 - 10
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:26 - 3
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:26 - 4
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:26 - 5
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:26 - 6
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:26 - 7
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:26 - 8
+INFO    2024-06-05 15:43:38,140 [main] corejava.LoopControlBasics:26 - 9
+INFO    2024-06-05 15:43:38,156 [main] corejava.LoopControlBasics:33 - Value of the variable is:5
+INFO    2024-06-05 15:43:38,156 [main] corejava.LoopControlBasics:33 - Value of the variable is:6
+INFO    2024-06-05 15:43:38,156 [main] corejava.LoopControlBasics:33 - Value of the variable is:7
+INFO    2024-06-05 15:43:38,156 [main] corejava.LoopControlBasics:33 - Value of the variable is:8
+INFO    2024-06-05 15:43:38,156 [main] corejava.LoopControlBasics:33 - Value of the variable is:9
+INFO    2024-06-05 15:44:44,105 [main] corejava.LoopControlBasics:18 - Even numbers between 1 to 10 are:
+INFO    2024-06-05 15:44:44,105 [main] corejava.LoopControlBasics:20 - 2
+INFO    2024-06-05 15:44:44,105 [main] corejava.LoopControlBasics:20 - 4
+INFO    2024-06-05 15:44:44,105 [main] corejava.LoopControlBasics:20 - 6
+INFO    2024-06-05 15:44:44,105 [main] corejava.LoopControlBasics:20 - 8
+INFO    2024-06-05 15:44:44,105 [main] corejava.LoopControlBasics:20 - 10
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:26 - Value of the looper:3
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:26 - Value of the looper:4
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:26 - Value of the looper:5
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:26 - Value of the looper:6
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:26 - Value of the looper:7
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:26 - Value of the looper:8
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:26 - Value of the looper:9
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:33 - Value of the variable is:5
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:33 - Value of the variable is:6
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:33 - Value of the variable is:7
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:33 - Value of the variable is:8
+INFO    2024-06-05 15:44:44,120 [main] corejava.LoopControlBasics:33 - Value of the variable is:9
+INFO    2024-06-05 15:46:19,842 [main] corejava.LoopControlBasics:18 - Even numbers between 1 to 10 using for loop are:
+INFO    2024-06-05 15:46:19,857 [main] corejava.LoopControlBasics:20 - 2
+INFO    2024-06-05 15:46:19,857 [main] corejava.LoopControlBasics:20 - 4
+INFO    2024-06-05 15:46:19,857 [main] corejava.LoopControlBasics:20 - 6
+INFO    2024-06-05 15:46:19,857 [main] corejava.LoopControlBasics:20 - 8
+INFO    2024-06-05 15:46:19,857 [main] corejava.LoopControlBasics:20 - 10
+INFO    2024-06-05 15:46:19,857 [main] corejava.LoopControlBasics:24 - Numbers between 3 to 10 using while loop are:
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:27 - Value of the looper:3
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:27 - Value of the looper:4
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:27 - Value of the looper:5
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:27 - Value of the looper:6
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:27 - Value of the looper:7
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:27 - Value of the looper:8
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:27 - Value of the looper:9
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:32 - Numbers between 5 to 10 using do while loop are:
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:36 - Value of the variable is:5
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:36 - Value of the variable is:6
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:36 - Value of the variable is:7
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:36 - Value of the variable is:8
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:36 - Value of the variable is:9
+INFO    2024-06-05 15:46:19,873 [main] corejava.LoopControlBasics:36 - Value of the variable is:10
+INFO    2024-06-05 15:46:49,090 [main] corejava.LoopControlBasics:18 - Even numbers between 1 to 10 using for loop are:
+INFO    2024-06-05 15:46:49,090 [main] corejava.LoopControlBasics:20 - 2
+INFO    2024-06-05 15:46:49,090 [main] corejava.LoopControlBasics:20 - 4
+INFO    2024-06-05 15:46:49,090 [main] corejava.LoopControlBasics:20 - 6
+INFO    2024-06-05 15:46:49,090 [main] corejava.LoopControlBasics:20 - 8
+INFO    2024-06-05 15:46:49,090 [main] corejava.LoopControlBasics:20 - 10
+INFO    2024-06-05 15:46:49,090 [main] corejava.LoopControlBasics:24 - Numbers between 3 to 10 using while loop are:
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:27 - Value of the looper:3
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:27 - Value of the looper:4
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:27 - Value of the looper:5
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:27 - Value of the looper:6
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:27 - Value of the looper:7
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:27 - Value of the looper:8
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:27 - Value of the looper:9
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:27 - Value of the looper:10
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:32 - Numbers between 5 to 10 using do while loop are:
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:36 - Value of the variable is:5
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:36 - Value of the variable is:6
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:36 - Value of the variable is:7
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:36 - Value of the variable is:8
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:36 - Value of the variable is:9
+INFO    2024-06-05 15:46:49,106 [main] corejava.LoopControlBasics:36 - Value of the variable is:10
+INFO    2024-06-07 18:11:07,139 [main] corejava.DecisionMakingBasics:26 - Value is less than or equal to 10
+INFO    2024-06-07 18:11:07,186 [main] corejava.DecisionMakingBasics:36 - Largest number is:10
+INFO    2024-06-07 18:11:07,186 [main] corejava.DecisionMakingBasics:45 - The day is Monday
+INFO    2024-06-07 18:11:07,186 [main] corejava.DecisionMakingBasics:46 - The day is Tuesday
+INFO    2024-06-07 18:11:07,186 [main] corejava.DecisionMakingBasics:47 - The day is Wednesday
+INFO    2024-06-07 18:11:07,186 [main] corejava.DecisionMakingBasics:48 - The day is Thursday
+INFO    2024-06-07 18:11:07,186 [main] corejava.DecisionMakingBasics:49 - The day is Friday
+INFO    2024-06-07 18:11:07,186 [main] corejava.DecisionMakingBasics:50 - The day is Saturday
+INFO    2024-06-07 18:11:07,202 [main] corejava.DecisionMakingBasics:51 - The day is Sunday
+INFO    2024-06-07 18:14:11,693 [main] corejava.DecisionMakingBasics:26 - Value is less than or equal to 10
+INFO    2024-06-07 18:14:11,708 [main] corejava.DecisionMakingBasics:36 - Largest number is:10
+INFO    2024-06-07 18:14:11,708 [main] corejava.DecisionMakingBasics:45 - The day is Monday
+INFO    2024-06-07 18:16:04,427 [main] corejava.DecisionMakingBasics:26 - Value is less than or equal to 10
+INFO    2024-06-07 18:16:04,442 [main] corejava.DecisionMakingBasics:34 - Largest among the 3 numbers is:10
+INFO    2024-06-07 18:16:04,442 [main] corejava.DecisionMakingBasics:36 - Largest number is:9
+INFO    2024-06-07 18:16:04,442 [main] corejava.DecisionMakingBasics:45 - The day is Monday
+INFO    2024-06-07 18:17:13,525 [main] corejava.DecisionMakingBasics:26 - Value is less than or equal to 10
+INFO    2024-06-07 18:17:13,540 [main] corejava.DecisionMakingBasics:34 - Largest among the 3 numbers is:10
+INFO    2024-06-07 18:17:13,540 [main] corejava.DecisionMakingBasics:46 - The day is Monday
+INFO    2024-06-07 18:17:49,322 [main] corejava.DecisionMakingBasics:26 - Value is less than or equal to 10
+INFO    2024-06-07 18:17:49,322 [main] corejava.DecisionMakingBasics:40 - Largest number is:10
+INFO    2024-06-07 18:17:49,322 [main] corejava.DecisionMakingBasics:46 - The day is Monday
+INFO    2024-06-08 12:23:44,239 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 12:23:44,239 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 12:23:44,239 [main] corejava.StringBasics:24 - Karina
+INFO    2024-06-08 12:23:44,255 [main] corejava.StringBasics:28 - Length of the string is:6
+INFO    2024-06-08 12:23:44,255 [main] corejava.StringBasics:32 - n
+INFO    2024-06-08 12:23:44,255 [main] corejava.StringBasics:35 - Index of character 'a' is:1
+INFO    2024-06-08 12:23:44,255 [main] corejava.StringBasics:38 - Character at index 2 is:r
+INFO    2024-06-08 12:23:44,255 [main] corejava.StringBasics:41 - -32
+INFO    2024-06-08 12:23:44,255 [main] corejava.StringBasics:44 - 0
+INFO    2024-06-08 12:26:45,530 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 12:26:45,530 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 12:26:45,530 [main] corejava.StringBasics:24 - false
+INFO    2024-06-08 12:26:45,530 [main] corejava.StringBasics:28 - Length of the string is:6
+INFO    2024-06-08 12:26:45,530 [main] corejava.StringBasics:32 - Character at the 4th index is:n
+INFO    2024-06-08 12:26:45,530 [main] corejava.StringBasics:35 - Index of character 'a' is:1
+INFO    2024-06-08 12:26:45,546 [main] corejava.StringBasics:38 - Character at index 2 is:r
+INFO    2024-06-08 12:26:45,546 [main] corejava.StringBasics:41 - false
+INFO    2024-06-08 12:26:45,546 [main] corejava.StringBasics:44 - true
+INFO    2024-06-08 12:32:07,267 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 12:32:07,267 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 12:32:07,267 [main] corejava.StringBasics:24 - false
+INFO    2024-06-08 12:32:07,282 [main] corejava.StringBasics:28 - Length of the string is:6
+INFO    2024-06-08 12:32:07,282 [main] corejava.StringBasics:32 - Character at the 4th index is:n
+INFO    2024-06-08 12:32:07,282 [main] corejava.StringBasics:35 - Index of character 'a' is:1
+INFO    2024-06-08 12:32:07,282 [main] corejava.StringBasics:38 - Character at index 2 is:r
+INFO    2024-06-08 12:32:07,282 [main] corejava.StringBasics:41 - Are the two strings same?false
+INFO    2024-06-08 12:32:07,282 [main] corejava.StringBasics:44 - Are the two strings same if case is ignored?true
+INFO    2024-06-08 12:32:47,780 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 12:32:47,795 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 12:32:47,795 [main] corejava.StringBasics:24 - false
+INFO    2024-06-08 12:32:47,801 [main] corejava.StringBasics:28 - Length of the string is:6
+INFO    2024-06-08 12:32:47,801 [main] corejava.StringBasics:32 - Character at the 4th index is:n
+INFO    2024-06-08 12:32:47,801 [main] corejava.StringBasics:35 - Index of character 'a' is:1
+INFO    2024-06-08 12:32:47,801 [main] corejava.StringBasics:38 - Character at index 2 is:r
+INFO    2024-06-08 12:32:47,801 [main] corejava.StringBasics:41 - Are the two strings same?false
+INFO    2024-06-08 12:32:47,801 [main] corejava.StringBasics:44 - Are the two strings same if case is ignored?true
+INFO    2024-06-08 12:33:43,572 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 12:33:43,572 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 12:33:43,572 [main] corejava.StringBasics:24 - false
+INFO    2024-06-08 12:33:43,572 [main] corejava.StringBasics:28 - Length of the string is:6
+INFO    2024-06-08 12:33:43,572 [main] corejava.StringBasics:32 - Character at the 4th index is:n
+INFO    2024-06-08 12:33:43,572 [main] corejava.StringBasics:35 - Index of character 'a' is:1
+INFO    2024-06-08 12:33:43,572 [main] corejava.StringBasics:38 - Character at index 2 is:r
+INFO    2024-06-08 12:33:43,572 [main] corejava.StringBasics:41 - Are the two strings same?false
+INFO    2024-06-08 12:33:43,572 [main] corejava.StringBasics:44 - Are the two strings same if case is ignored?true
+INFO    2024-06-08 12:34:27,245 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 12:34:27,245 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 12:34:27,245 [main] corejava.StringBasics:24 - false
+INFO    2024-06-08 12:34:27,260 [main] corejava.StringBasics:28 - Length of the string is:6
+INFO    2024-06-08 12:34:27,260 [main] corejava.StringBasics:32 - Character at the 4th index is:n
+INFO    2024-06-08 12:34:27,260 [main] corejava.StringBasics:35 - Index of character 'a' is:1
+INFO    2024-06-08 12:34:27,260 [main] corejava.StringBasics:38 - Character at index 2 is:r
+INFO    2024-06-08 12:34:27,260 [main] corejava.StringBasics:41 - Are the two strings same?false
+INFO    2024-06-08 12:34:27,260 [main] corejava.StringBasics:44 - Are the two strings same if case is ignored?true
+INFO    2024-06-08 12:36:32,911 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 12:36:32,923 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 12:38:47,618 [main] corejava.StringBasics:24 - false
+INFO    2024-06-08 12:39:04,026 [main] corejava.StringBasics:28 - Length of the string is:6
+INFO    2024-06-08 12:39:33,547 [main] corejava.StringBasics:32 - Character at the 4th index is:n
+INFO    2024-06-08 12:39:36,178 [main] corejava.StringBasics:35 - Index of character 'a' is:1
+INFO    2024-06-08 12:39:36,931 [main] corejava.StringBasics:38 - Character at index 2 is:r
+INFO    2024-06-08 12:39:38,901 [main] corejava.StringBasics:41 - Are the two strings same?false
+INFO    2024-06-08 12:39:39,696 [main] corejava.StringBasics:44 - Are the two strings same if case is ignored?true
+INFO    2024-06-08 12:40:20,511 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 12:40:20,536 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 12:40:46,196 [main] corejava.StringBasics:24 - false
+INFO    2024-06-08 12:41:25,857 [main] corejava.StringBasics:28 - Length of the string is:6
+INFO    2024-06-08 12:41:25,857 [main] corejava.StringBasics:32 - Character at the 4th index is:n
+INFO    2024-06-08 12:41:25,857 [main] corejava.StringBasics:35 - Index of character 'a' is:1
+INFO    2024-06-08 12:41:25,857 [main] corejava.StringBasics:38 - Character at index 2 is:r
+INFO    2024-06-08 12:41:25,873 [main] corejava.StringBasics:41 - Are the two strings same?false
+INFO    2024-06-08 12:41:25,873 [main] corejava.StringBasics:44 - Are the two strings same if case is ignored?true
+INFO    2024-06-08 12:41:47,241 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 12:41:47,241 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 12:41:47,241 [main] corejava.StringBasics:24 - false
+INFO    2024-06-08 12:41:47,241 [main] corejava.StringBasics:29 - Length of the string is:6
+INFO    2024-06-08 12:41:47,241 [main] corejava.StringBasics:33 - Character at the 4th index is:n
+INFO    2024-06-08 12:41:47,257 [main] corejava.StringBasics:36 - Index of character 'a' is:1
+INFO    2024-06-08 12:41:47,257 [main] corejava.StringBasics:39 - Character at index 2 is:r
+INFO    2024-06-08 12:41:47,257 [main] corejava.StringBasics:42 - Are the two strings same?false
+INFO    2024-06-08 12:41:47,257 [main] corejava.StringBasics:45 - Are the two strings same if case is ignored?true
+INFO    2024-06-08 12:42:38,638 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 12:42:38,638 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 12:42:38,638 [main] corejava.StringBasics:24 - false
+INFO    2024-06-08 12:42:38,654 [main] corejava.StringBasics:29 - Length of the string is:6
+INFO    2024-06-08 12:42:38,669 [main] corejava.StringBasics:33 - Character at the 4th index is:n
+INFO    2024-06-08 12:42:38,669 [main] corejava.StringBasics:36 - Index of character 'a' is:1
+INFO    2024-06-08 12:42:38,669 [main] corejava.StringBasics:39 - Character at index 2 is:r
+INFO    2024-06-08 12:42:38,669 [main] corejava.StringBasics:42 - Are the two strings same?false
+INFO    2024-06-08 12:42:38,669 [main] corejava.StringBasics:45 - Are the two strings same if case is ignored?true
+INFO    2024-06-08 16:50:59,541 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 16:50:59,541 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 16:50:59,557 [main] corejava.StringBasics:24 - false
+INFO    2024-06-08 16:50:59,557 [main] corejava.StringBasics:28 - Length of the string is:6
+INFO    2024-06-08 16:50:59,557 [main] corejava.StringBasics:32 - Character at the 4th index is:n
+INFO    2024-06-08 16:50:59,557 [main] corejava.StringBasics:35 - Index of character 'a' is:1
+INFO    2024-06-08 16:50:59,557 [main] corejava.StringBasics:38 - Character at index 2 is:r
+INFO    2024-06-08 16:50:59,557 [main] corejava.StringBasics:41 - Are the two strings same?false
+INFO    2024-06-08 16:50:59,557 [main] corejava.StringBasics:44 - Are the two strings same if case is ignored?true
+INFO    2024-06-08 16:51:51,307 [main] corejava.StringBasics:16 - The string created using literal is:Karina
+INFO    2024-06-08 16:51:51,307 [main] corejava.StringBasics:21 - String created using character array is:Karina
+INFO    2024-06-08 16:51:51,307 [main] corejava.StringBasics:24 - Are the references same:
+INFO    2024-06-08 16:51:51,307 [main] corejava.StringBasics:25 - false
+INFO    2024-06-08 16:51:51,307 [main] corejava.StringBasics:29 - Length of the string is:6
+INFO    2024-06-08 16:51:51,307 [main] corejava.StringBasics:33 - Character at the 4th index is:n
+INFO    2024-06-08 16:51:51,307 [main] corejava.StringBasics:36 - Index of character 'a' is:1
+INFO    2024-06-08 16:51:51,322 [main] corejava.StringBasics:39 - Character at index 2 is:r
+INFO    2024-06-08 16:51:51,322 [main] corejava.StringBasics:42 - Are the two strings same?false
+INFO    2024-06-08 16:51:51,322 [main] corejava.StringBasics:45 - Are the two strings same if case is ignored?true
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 8
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 5
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 6
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 2
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 9
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 1
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 10
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 1
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 2
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 5
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 6
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 8
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 9
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:32 - 10
+INFO    2024-06-09 02:01:12,166 [main] corejava.ArrayBasics:28 - [[I@42f30e0a]
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 8
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 5
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 6
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 2
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 9
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 1
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 10
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 1
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 2
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 5
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 6
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 8
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 9
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:33 - 10
+INFO    2024-06-09 02:02:03,853 [main] corejava.ArrayBasics:29 - [[I@490d6c15]
+INFO    2024-06-09 02:20:37,032 [main] corejava.ArrayBasics:34 - 8
+INFO    2024-06-09 02:20:37,054 [main] corejava.ArrayBasics:34 - 5
+INFO    2024-06-09 02:20:37,054 [main] corejava.ArrayBasics:34 - 6
+INFO    2024-06-09 02:20:37,054 [main] corejava.ArrayBasics:34 - 2
+INFO    2024-06-09 02:20:37,054 [main] corejava.ArrayBasics:34 - 9
+INFO    2024-06-09 02:20:37,054 [main] corejava.ArrayBasics:34 - 1
+INFO    2024-06-09 02:20:37,054 [main] corejava.ArrayBasics:34 - 10
+INFO    2024-06-09 02:20:37,054 [main] corejava.ArrayBasics:34 - 1
+INFO    2024-06-09 02:20:37,054 [main] corejava.ArrayBasics:34 - 2
+INFO    2024-06-09 02:20:37,054 [main] corejava.ArrayBasics:34 - 5
+INFO    2024-06-09 02:20:37,054 [main] corejava.ArrayBasics:34 - 6
+INFO    2024-06-09 02:20:37,065 [main] corejava.ArrayBasics:34 - 8
+INFO    2024-06-09 02:20:37,065 [main] corejava.ArrayBasics:34 - 9
+INFO    2024-06-09 02:20:37,065 [main] corejava.ArrayBasics:34 - 10
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 8
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 5
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 6
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 2
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 9
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 1
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 10
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 1
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 2
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 5
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 6
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 8
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 9
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:34 - 10
+INFO    2024-06-09 02:22:21,806 [main] corejava.ArrayBasics:30 - [[I@490d6c15]
+INFO    2024-06-09 02:24:02,227 [main] corejava.ArrayBasics:34 - 8
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 5
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 6
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 2
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 9
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 1
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 10
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 1
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 2
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 5
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 6
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 8
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 9
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:34 - 10
+INFO    2024-06-09 02:24:02,242 [main] corejava.ArrayBasics:30 - [I@574caa3f
+INFO    2024-06-09 02:27:54,364 [main] corejava.ArrayBasics:36 - 8
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 5
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 6
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 2
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 9
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 1
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 10
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 1
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 2
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 5
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 6
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 8
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 9
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:36 - 10
+INFO    2024-06-09 02:27:54,395 [main] corejava.ArrayBasics:30 - [I@490d6c15
+INFO    2024-06-09 02:35:02,656 [main] corejava.ArrayBasics:33 - 8
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 5
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 6
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 2
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 9
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 1
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 10
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 1
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 2
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 5
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 6
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 8
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 9
+INFO    2024-06-09 02:35:02,672 [main] corejava.ArrayBasics:33 - 10
+INFO    2024-06-09 17:39:28,818 [main] corejava.ArrayBasics:33 - 8
+INFO    2024-06-09 17:39:28,825 [main] corejava.ArrayBasics:33 - 5
+INFO    2024-06-09 17:39:28,825 [main] corejava.ArrayBasics:33 - 6
+INFO    2024-06-09 17:39:28,825 [main] corejava.ArrayBasics:33 - 2
+INFO    2024-06-09 17:39:28,825 [main] corejava.ArrayBasics:33 - 9
+INFO    2024-06-09 17:39:28,825 [main] corejava.ArrayBasics:33 - 1
+INFO    2024-06-09 17:39:28,825 [main] corejava.ArrayBasics:33 - 10
+INFO    2024-06-09 17:39:28,825 [main] corejava.ArrayBasics:33 - 1
+INFO    2024-06-09 17:39:28,830 [main] corejava.ArrayBasics:33 - 2
+INFO    2024-06-09 17:39:28,830 [main] corejava.ArrayBasics:33 - 5
+INFO    2024-06-09 17:39:28,830 [main] corejava.ArrayBasics:33 - 6
+INFO    2024-06-09 17:39:28,830 [main] corejava.ArrayBasics:33 - 8
+INFO    2024-06-09 17:39:28,830 [main] corejava.ArrayBasics:33 - 9
+INFO    2024-06-09 17:39:28,830 [main] corejava.ArrayBasics:33 - 10
+INFO    2024-06-09 17:52:21,383 [main] corejava.ArrayBasics:40 - 8
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 5
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 6
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 2
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 9
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 1
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 10
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 1
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 2
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 5
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 6
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 8
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 9
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:40 - 10
+INFO    2024-06-09 17:52:21,386 [main] corejava.ArrayBasics:36 - [1, 2, 5, 6, 8, 9, 10]
+INFO    2024-06-09 18:10:00,471 [main] corejava.ArrayBasics:47 - 8
+INFO    2024-06-09 18:10:00,475 [main] corejava.ArrayBasics:47 - 5
+INFO    2024-06-09 18:10:00,475 [main] corejava.ArrayBasics:47 - 6
+INFO    2024-06-09 18:10:00,475 [main] corejava.ArrayBasics:47 - 2
+INFO    2024-06-09 18:10:00,475 [main] corejava.ArrayBasics:47 - 9
+INFO    2024-06-09 18:10:00,475 [main] corejava.ArrayBasics:47 - 1
+INFO    2024-06-09 18:10:00,478 [main] corejava.ArrayBasics:47 - 10
+INFO    2024-06-09 18:10:00,478 [main] corejava.ArrayBasics:47 - 1
+INFO    2024-06-09 18:10:00,478 [main] corejava.ArrayBasics:47 - 2
+INFO    2024-06-09 18:10:00,478 [main] corejava.ArrayBasics:47 - 5
+INFO    2024-06-09 18:10:00,478 [main] corejava.ArrayBasics:47 - 6
+INFO    2024-06-09 18:10:00,478 [main] corejava.ArrayBasics:47 - 8
+INFO    2024-06-09 18:10:00,478 [main] corejava.ArrayBasics:47 - 9
+INFO    2024-06-09 18:10:00,478 [main] corejava.ArrayBasics:47 - 10
+INFO    2024-06-09 18:10:00,480 [main] corejava.ArrayBasics:36 - [1, 2, 5, 6, 8, 9, 10]
+INFO    2024-06-09 18:11:10,815 [main] corejava.ArrayBasics:47 - 8
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 5
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 6
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 2
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 9
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 1
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 10
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 1
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 2
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 5
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 6
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 8
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 9
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:47 - 10
+INFO    2024-06-09 18:11:10,823 [main] corejava.ArrayBasics:36 - [1, 2, 5, 6, 8, 9, 10]
+INFO    2024-06-09 18:11:45,892 [main] corejava.ArrayBasics:47 - 8
+INFO    2024-06-09 18:11:45,897 [main] corejava.ArrayBasics:47 - 5
+INFO    2024-06-09 18:11:45,897 [main] corejava.ArrayBasics:47 - 6
+INFO    2024-06-09 18:11:45,897 [main] corejava.ArrayBasics:47 - 2
+INFO    2024-06-09 18:11:45,897 [main] corejava.ArrayBasics:47 - 9
+INFO    2024-06-09 18:11:45,897 [main] corejava.ArrayBasics:47 - 1
+INFO    2024-06-09 18:11:45,900 [main] corejava.ArrayBasics:47 - 10
+INFO    2024-06-09 18:11:45,901 [main] corejava.ArrayBasics:47 - 1
+INFO    2024-06-09 18:11:45,901 [main] corejava.ArrayBasics:47 - 2
+INFO    2024-06-09 18:11:45,901 [main] corejava.ArrayBasics:47 - 5
+INFO    2024-06-09 18:11:45,901 [main] corejava.ArrayBasics:47 - 6
+INFO    2024-06-09 18:11:45,901 [main] corejava.ArrayBasics:47 - 8
+INFO    2024-06-09 18:11:45,901 [main] corejava.ArrayBasics:47 - 9
+INFO    2024-06-09 18:11:45,901 [main] corejava.ArrayBasics:47 - 10
+INFO    2024-06-09 18:11:45,901 [main] corejava.ArrayBasics:36 - [1, 2, 5, 6, 8, 9, 10]
+INFO    2024-06-09 18:12:47,608 [main] corejava.ArrayBasics:47 - 8
+INFO    2024-06-09 18:12:47,678 [main] corejava.ArrayBasics:47 - 5
+INFO    2024-06-09 18:12:47,678 [main] corejava.ArrayBasics:47 - 6
+INFO    2024-06-09 18:12:47,678 [main] corejava.ArrayBasics:47 - 2
+INFO    2024-06-09 18:12:47,680 [main] corejava.ArrayBasics:47 - 9
+INFO    2024-06-09 18:12:47,680 [main] corejava.ArrayBasics:47 - 1
+INFO    2024-06-09 18:12:47,684 [main] corejava.ArrayBasics:47 - 10
+INFO    2024-06-09 18:12:47,691 [main] corejava.ArrayBasics:47 - 1
+INFO    2024-06-09 18:12:47,692 [main] corejava.ArrayBasics:47 - 2
+INFO    2024-06-09 18:12:47,692 [main] corejava.ArrayBasics:47 - 5
+INFO    2024-06-09 18:12:47,697 [main] corejava.ArrayBasics:47 - 6
+INFO    2024-06-09 18:12:47,697 [main] corejava.ArrayBasics:47 - 8
+INFO    2024-06-09 18:12:47,701 [main] corejava.ArrayBasics:47 - 9
+INFO    2024-06-09 18:12:47,701 [main] corejava.ArrayBasics:47 - 10
+INFO    2024-06-09 18:12:47,705 [main] corejava.ArrayBasics:36 - [1, 2, 5, 6, 8, 9, 10]
+INFO    2024-06-09 18:14:04,104 [main] corejava.ArrayBasics:47 - 8
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 5
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 6
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 2
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 9
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 1
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 10
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 1
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 2
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 5
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 6
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 8
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 9
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:47 - 10
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:36 - [1, 2, 5, 6, 8, 9, 10]
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 1
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 2
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 3
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 4
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 5
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 6
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 7
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 8
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 9
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 10
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 11
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 12
+INFO    2024-06-09 18:14:04,112 [main] corejava.ArrayBasics:61 - 13
+INFO    2024-06-09 18:14:04,120 [main] corejava.ArrayBasics:61 - 14
+INFO    2024-06-09 18:14:04,120 [main] corejava.ArrayBasics:61 - 15
+INFO    2024-06-09 18:14:04,121 [main] corejava.ArrayBasics:61 - 16
+INFO    2024-06-09 21:26:32,254 [main] corejava.InheritanceBasics:107 - Name of the Vehicle is:Mercedes color is:White capacity  and max speed are respectively:2 45.0
+INFO    2024-06-09 21:26:32,270 [main] corejava.InheritanceBasics:110 - Model of the car is:Comet color is:White capacity  and max speed are respectively:4 60.0
+INFO    2024-06-09 21:26:32,270 [main] corejava.InheritanceBasics:113 - Model of the bike is:Avenger color is:Red capacity  and max speed are respectively:2 50.0
+INFO    2024-06-09 21:27:55,760 [main] corejava.InheritanceBasics:107 - Name of the Vehicle is:Mercedes color is:White capacity and max speed are respectively:2 45.0
+INFO    2024-06-09 21:27:55,775 [main] corejava.InheritanceBasics:111 - Model of the car is:Comet color is:White capacity and max speed are respectively:4 60.0
+INFO    2024-06-09 21:27:55,775 [main] corejava.InheritanceBasics:75 - Car has a different method of starting
+INFO    2024-06-09 21:27:55,775 [main] corejava.InheritanceBasics:78 - Car may have a different method of stopping
+INFO    2024-06-09 21:27:55,775 [main] corejava.InheritanceBasics:117 - Model of the bike is:Avenger color is:Red capacity and max speed are respectively:2 50.0
+INFO    2024-06-09 21:27:55,775 [main] corejava.InheritanceBasics:91 - A bike has a different method of starting
+INFO    2024-06-09 21:27:55,775 [main] corejava.InheritanceBasics:94 - A bike may have a different method of stopping
+INFO    2024-06-11 01:31:52,404 [main] corejava.PolymorphismExample:70 - Area of a square is:30.25
+INFO    2024-06-11 01:31:52,409 [main] corejava.PolymorphismExample:71 - Area of a rectangle is:30.0
+INFO    2024-06-11 01:31:52,409 [main] corejava.PolymorphismExample:72 - Area of a circle is:78.53750000000001
+INFO    2024-06-11 01:31:52,409 [main] corejava.PolymorphismExample:25 - Inside Engineer class work method
+INFO    2024-06-11 01:31:52,409 [main] corejava.PolymorphismExample:35 - Inside Software Engineer's work method
+INFO    2024-06-11 14:43:55,858 [main] corejava.AbstractionExample:80 - Perimeter of rectangle is:20.0 and area is:25.0
+INFO    2024-06-11 14:43:55,858 [main] corejava.AbstractionExample:83 - Perimeter of shape is:20.0 and area is:25.0
+INFO    2024-06-11 14:44:53,674 [main] corejava.AbstractionExample:80 - Perimeter of rectangle is:20.0 and area is:25.0
+INFO    2024-06-11 14:44:53,680 [main] corejava.AbstractionExample:83 - Perimeter of square is:20.0 and area is:25.0
+INFO    2024-06-11 15:03:01,963 [main] corejava.AbstractionExample:80 - Perimeter of rectangle is:20.0 and area is:25.0
+INFO    2024-06-11 15:03:01,963 [main] corejava.AbstractionExample:83 - Perimeter of square is:20.0 and area is:25.0
+INFO    2024-06-11 15:03:18,758 [main] corejava.AbstractionExample:80 - Perimeter of rectangle is:20.0 and area is:25.0
+INFO    2024-06-11 15:03:18,758 [main] corejava.AbstractionExample:83 - Perimeter of square is:20.0 and area is:25.0
+INFO    2024-06-11 15:07:11,255 [main] corejava.AbstractionExample:80 - Perimeter of rectangle is:20.0 and area is:25.0
+INFO    2024-06-11 15:07:11,271 [main] corejava.AbstractionExample:83 - Perimeter of square is:20.0 and area is:25.0
+INFO    2024-06-11 15:07:56,753 [main] corejava.AbstractionExample:80 - Perimeter of rectangle is:20.0 and area is:25.0
+INFO    2024-06-11 15:08:24,578 [main] corejava.AbstractionExample:83 - Perimeter of square is:20.0 and area is:25.0
+INFO    2024-06-11 15:10:10,745 [main] corejava.AbstractionExample:82 - Perimeter of rectangle is:20.0 and area is:25.0
+INFO    2024-06-11 15:10:10,761 [main] corejava.AbstractionExample:85 - Perimeter of square is:20.0 and area is:25.0
+INFO    2024-06-11 15:12:48,303 [main] corejava.AbstractionExample:80 - Perimeter of rectangle is:22.0 and area is:30.0
+INFO    2024-06-11 15:12:48,303 [main] corejava.AbstractionExample:83 - Perimeter of square is:20.0 and area is:25.0
+INFO    2024-06-11 19:16:53,532 [main] corejava.EncapsulationExample:54 - Name of the person:Karina address is:Ulhasnagar age is:22
+INFO    2024-06-11 19:16:53,545 [main] corejava.EncapsulationExample:57 - Name of the person:XYZ address is:PQR age is:20
+INFO    2024-06-12 00:50:06,881 [main] corejava.InterfaceExample:46 - Credentials are:Karina and Karina123
+INFO    2024-06-12 00:50:06,892 [main] corejava.InterfaceExample:71 - Available number of seats:5
+INFO    2024-06-12 00:50:06,892 [main] corejava.InterfaceExample:36 - Tickets can be booked
+INFO    2024-06-12 00:50:06,892 [main] corejava.InterfaceExample:51 - Transacting an amount of Rs.500.0
+INFO    2024-06-12 00:50:06,892 [main] corejava.InterfaceExample:74 - Available balance:500.0
+INFO    2024-06-12 00:51:07,455 [main] corejava.InterfaceExample:46 - Credentials are name:Karina and password:Karina123
+INFO    2024-06-12 00:51:07,470 [main] corejava.InterfaceExample:71 - Available number of seats:5
+INFO    2024-06-12 00:51:07,470 [main] corejava.InterfaceExample:36 - Tickets can be booked
+INFO    2024-06-12 00:51:07,471 [main] corejava.InterfaceExample:51 - Transacting an amount of Rs.500.0
+INFO    2024-06-12 00:51:07,471 [main] corejava.InterfaceExample:74 - Available balance:500.0
+INFO    2024-06-12 21:36:56,342 [main] corejava.PackageExample:17 - Is 9 prime?false
+INFO    2024-06-12 21:36:56,364 [main] corejava.PackageExample:19 - Is 11 prime?false
+INFO    2024-06-12 21:38:35,040 [main] corejava.PackageExample:17 - Is 9 prime?false
+INFO    2024-06-12 21:38:35,056 [main] corejava.PackageExample:19 - Is 11 prime?false
+INFO    2024-06-12 21:38:45,827 [main] corejava.PackageExample:17 - Is 9 prime?false
+INFO    2024-06-12 21:39:12,314 [main] corejava.PackageExample:19 - Is 11 prime?false
+INFO    2024-06-12 21:40:20,619 [main] corejava.PackageExample:17 - Is 9 prime?false
+INFO    2024-06-12 21:40:24,613 [main] corejava.PackageExample:19 - Is 11 prime?false
+INFO    2024-06-12 21:40:45,423 [main] corejava.PackageExample:17 - Is 9 prime?false
+INFO    2024-06-12 21:40:50,513 [main] corejava.PackageExample:19 - Is 11 prime?false
+INFO    2024-06-12 21:41:14,498 [main] corejava.PackageExample:17 - Is 9 prime?false
+INFO    2024-06-12 21:42:14,351 [main] corejava.PackageExample:19 - Is 11 prime?false
+INFO    2024-06-12 21:46:54,794 [main] corejava.PackageExample:17 - Is 9 prime?false
+INFO    2024-06-12 21:46:54,810 [main] corejava.PackageExample:19 - Is 11 prime?true
+INFO    2024-06-13 16:50:23,120 [main] corejava.PackageExample:17 - Is 9 prime?false
+INFO    2024-06-13 16:50:23,124 [main] corejava.PackageExample:18 - Is 11 prime?true
+INFO    2024-06-13 16:50:23,124 [main] corejava.PackageExample:19 - Is 25 prime?false
+INFO    2024-06-13 16:50:23,124 [main] corejava.PackageExample:20 - Is 71 prime?true
+INFO    2024-06-13 16:50:23,131 [main] corejava.PackageExample:22 - Factorial of 5:120
+INFO    2024-06-13 16:50:23,131 [main] corejava.PackageExample:23 - Factorial of 10:3628800
+INFO    2024-06-13 16:50:23,131 [main] corejava.PackageExample:24 - Factorial of 8:40320
+WARN    2024-06-13 19:41:51,949 [main] corejava.ExceptionExample:25 - java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 4
+INFO    2024-06-13 19:41:51,954 [main] corejava.ExceptionExample:28 - This block always gets executed
+WARN    2024-06-13 19:45:38,370 [main] corejava.ExceptionExample:25 - java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 4
+INFO    2024-06-13 19:45:38,377 [main] corejava.ExceptionExample:28 - Finally block always gets executed
+WARN    2024-06-13 19:46:32,477 [main] corejava.ExceptionExample:38 - java.lang.ArithmeticException: / by zero
+INFO    2024-06-13 19:46:32,481 [main] corejava.ExceptionExample:21 - 0
+WARN    2024-06-13 19:46:32,481 [main] corejava.ExceptionExample:26 - java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 4
+INFO    2024-06-13 19:46:32,481 [main] corejava.ExceptionExample:29 - Finally block always gets executed
+WARN    2024-06-14 18:54:41,203 [main] corejava.ExceptionExample:40 - java.lang.ArithmeticException: / by zero
+INFO    2024-06-14 18:54:41,219 [main] corejava.ExceptionExample:21 - 0
+WARN    2024-06-14 18:54:41,219 [main] corejava.ExceptionExample:26 - java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 4
+INFO    2024-06-14 18:54:41,219 [main] corejava.ExceptionExample:29 - Finally block always gets executed
+WARN    2024-06-14 18:56:34,659 [main] corejava.ExceptionExample:44 - java.lang.ArithmeticException: / by zero
+INFO    2024-06-14 18:56:34,659 [main] corejava.ExceptionExample:21 - 0
+WARN    2024-06-14 18:56:34,659 [main] corejava.ExceptionExample:26 - java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 4
+INFO    2024-06-14 18:56:34,659 [main] corejava.ExceptionExample:29 - Finally block always gets executed
+WARN    2024-06-14 18:56:34,659 [main] corejava.ExceptionExample:35 - Arithmetic exception(divide by zero) error caught
+INFO    2024-06-15 00:42:58,884 [main] collectionExamples.CollectionPrimitiveExample:26 - List of numbers:[5, 7, 3, 9, 9]
+INFO    2024-06-15 00:42:58,889 [main] collectionExamples.CollectionPrimitiveExample:28 - Sorted numbers:[3, 5, 7, 9, 9]
+INFO    2024-06-15 00:42:58,889 [main] collectionExamples.CollectionPrimitiveExample:32 - 3
+INFO    2024-06-15 00:42:58,889 [main] collectionExamples.CollectionPrimitiveExample:32 - 5
+INFO    2024-06-15 00:42:58,889 [main] collectionExamples.CollectionPrimitiveExample:32 - 7
+INFO    2024-06-15 00:42:58,889 [main] collectionExamples.CollectionPrimitiveExample:32 - 9
+INFO    2024-06-15 00:42:58,889 [main] collectionExamples.CollectionPrimitiveExample:32 - 9
+INFO    2024-06-15 00:42:58,889 [main] collectionExamples.CollectionPrimitiveExample:42 - Set of numbers:[3, 5, 7, 9]
+INFO    2024-06-15 00:42:58,895 [main] collectionExamples.CollectionPrimitiveExample:46 - 3
+INFO    2024-06-15 00:42:58,895 [main] collectionExamples.CollectionPrimitiveExample:46 - 5
+INFO    2024-06-15 00:42:58,895 [main] collectionExamples.CollectionPrimitiveExample:46 - 7
+INFO    2024-06-15 00:42:58,895 [main] collectionExamples.CollectionPrimitiveExample:46 - 9
+INFO    2024-06-15 00:42:58,895 [main] collectionExamples.CollectionPrimitiveExample:56 - Mapping of birthdays to the people is:{16=Karina, 17=Vanshita, 20=Diksha, 5=Vishal, 6=Varsha}
+INFO    2024-06-15 00:42:58,895 [main] collectionExamples.CollectionPrimitiveExample:60 - Karina
+INFO    2024-06-15 00:42:58,895 [main] collectionExamples.CollectionPrimitiveExample:60 - Vanshita
+INFO    2024-06-15 00:42:58,895 [main] collectionExamples.CollectionPrimitiveExample:60 - Diksha
+INFO    2024-06-15 00:42:58,895 [main] collectionExamples.CollectionPrimitiveExample:60 - Vishal
+INFO    2024-06-15 00:42:58,895 [main] collectionExamples.CollectionPrimitiveExample:60 - Varsha
+INFO    2024-06-15 00:44:32,798 [main] collectionExamples.CollectionPrimitiveExample:26 - List of numbers:[5, 7, 3, 9, 9]
+INFO    2024-06-15 00:44:32,798 [main] collectionExamples.CollectionPrimitiveExample:28 - Sorted numbers:[3, 5, 7, 9, 9]
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:31 - Iterating through an iterator
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:33 - 3
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:33 - 5
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:33 - 7
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:33 - 9
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:33 - 9
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:43 - Set of numbers:[3, 5, 7, 9]
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:46 - Iterating through an iterator
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:48 - 3
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:48 - 5
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:48 - 7
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:48 - 9
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:58 - Mapping of birthdays to the people is:{16=Karina, 17=Vanshita, 20=Diksha, 5=Vishal, 6=Varsha}
+INFO    2024-06-15 00:44:32,804 [main] collectionExamples.CollectionPrimitiveExample:61 - Iterating through an iterator
+INFO    2024-06-15 00:44:32,820 [main] collectionExamples.CollectionPrimitiveExample:63 - 16 Karina
+INFO    2024-06-15 00:44:32,820 [main] collectionExamples.CollectionPrimitiveExample:63 - 17 Vanshita
+INFO    2024-06-15 00:44:32,820 [main] collectionExamples.CollectionPrimitiveExample:63 - 20 Diksha
+INFO    2024-06-15 00:44:32,820 [main] collectionExamples.CollectionPrimitiveExample:63 - 5 Vishal
+INFO    2024-06-15 00:44:32,820 [main] collectionExamples.CollectionPrimitiveExample:63 - 6 Varsha
+INFO    2024-06-15 00:58:52,707 [main] collectionExamples.CollectionCustomExample:62 - List of students:[collectionExamples.Studentt@5ecddf8f, collectionExamples.Studentt@3f102e87, collectionExamples.Studentt@27abe2cd, collectionExamples.Studentt@5f5a92bb, collectionExamples.Studentt@6fdb1f78]
+INFO    2024-06-15 00:58:52,713 [main] collectionExamples.CollectionCustomExample:72 - Set of students:[collectionExamples.Studentt@5f5a92bb, collectionExamples.Studentt@5ecddf8f, collectionExamples.Studentt@6fdb1f78, collectionExamples.Studentt@27abe2cd, collectionExamples.Studentt@3f102e87]
+INFO    2024-06-15 00:58:52,713 [main] collectionExamples.CollectionCustomExample:80 - Map of students:{collectionExamples.Studentt@5ecddf8f=collectionExamples.Studentt@3f102e87, collectionExamples.Studentt@6fdb1f78=collectionExamples.Studentt@7d4793a8, collectionExamples.Studentt@27abe2cd=collectionExamples.Studentt@5f5a92bb}
+INFO    2024-06-15 01:17:08,858 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:17:09,070 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:17:09,070 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:17:09,081 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:17:09,081 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:17:09,081 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:17:09,081 [main] collectionExamples.CollectionCustomExample:75 - Set of students:
+INFO    2024-06-15 01:17:09,097 [main] collectionExamples.CollectionCustomExample:87 - Student with id 2 and name:Diksha is mapped to student with id:3 and name:Sahil
+INFO    2024-06-15 01:17:09,097 [main] collectionExamples.CollectionCustomExample:87 - Student with id 1 and name:Karina is mapped to student with id:2 and name:Diksha
+INFO    2024-06-15 01:17:09,097 [main] collectionExamples.CollectionCustomExample:87 - Student with id 4 and name:Vishal is mapped to student with id:5 and name:Gunjan
+INFO    2024-06-15 01:20:10,595 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:20:10,633 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:20:10,633 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:20:10,638 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:20:10,638 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:20:10,638 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:20:10,638 [main] collectionExamples.CollectionCustomExample:75 - Set of students:
+INFO    2024-06-15 01:20:10,638 [main] collectionExamples.CollectionCustomExample:77 - collectionExamples.Studentt@270421f5
+INFO    2024-06-15 01:20:10,638 [main] collectionExamples.CollectionCustomExample:77 - collectionExamples.Studentt@5a42bbf4
+INFO    2024-06-15 01:20:10,638 [main] collectionExamples.CollectionCustomExample:77 - collectionExamples.Studentt@4f4a7090
+INFO    2024-06-15 01:20:10,638 [main] collectionExamples.CollectionCustomExample:77 - collectionExamples.Studentt@33e5ccce
+INFO    2024-06-15 01:20:10,638 [main] collectionExamples.CollectionCustomExample:77 - collectionExamples.Studentt@52d455b8
+INFO    2024-06-15 01:20:10,649 [main] collectionExamples.CollectionCustomExample:85 - Student with id 2 and name:Diksha is mapped to student with id:3 and name:Sahil
+INFO    2024-06-15 01:20:10,649 [main] collectionExamples.CollectionCustomExample:85 - Student with id 1 and name:Karina is mapped to student with id:2 and name:Diksha
+INFO    2024-06-15 01:20:10,649 [main] collectionExamples.CollectionCustomExample:85 - Student with id 4 and name:Vishal is mapped to student with id:5 and name:Gunjan
+INFO    2024-06-15 01:34:18,847 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:34:18,863 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:34:18,863 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:34:18,863 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:34:18,863 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:34:18,863 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:34:18,863 [main] collectionExamples.CollectionCustomExample:75 - Set of students
+INFO    2024-06-15 01:34:18,879 [main] collectionExamples.CollectionCustomExample:77 - 3 Diksha
+INFO    2024-06-15 01:34:18,879 [main] collectionExamples.CollectionCustomExample:77 - 5 Karina
+INFO    2024-06-15 01:35:37,253 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:35:37,269 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:35:37,269 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:35:37,269 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:35:37,269 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:35:37,269 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:35:37,269 [main] collectionExamples.CollectionCustomExample:75 - Set of students
+INFO    2024-06-15 01:35:37,269 [main] collectionExamples.CollectionCustomExample:77 - 3 Diksha
+INFO    2024-06-15 01:35:37,269 [main] collectionExamples.CollectionCustomExample:77 - 5 Karina
+INFO    2024-06-15 01:36:08,759 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:36:08,790 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:36:08,790 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:36:08,790 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:36:08,790 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:36:08,790 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:36:08,790 [main] collectionExamples.CollectionCustomExample:75 - Set of students
+INFO    2024-06-15 01:36:45,691 [main] collectionExamples.CollectionCustomExample:77 - 2 Sahil
+INFO    2024-06-15 01:36:46,595 [main] collectionExamples.CollectionCustomExample:77 - 4 Gunjan
+INFO    2024-06-15 01:37:04,438 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:37:04,470 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:37:04,470 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:37:04,470 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:37:04,470 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:37:04,470 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:37:04,470 [main] collectionExamples.CollectionCustomExample:75 - Set of students
+INFO    2024-06-15 01:37:06,764 [main] collectionExamples.CollectionCustomExample:77 - 3 Vishal
+INFO    2024-06-15 01:37:22,371 [main] collectionExamples.CollectionCustomExample:77 - 1 Diksha
+INFO    2024-06-15 01:38:10,981 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:38:10,997 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:38:10,997 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:38:10,997 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:38:10,997 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:38:10,997 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:38:10,997 [main] collectionExamples.CollectionCustomExample:75 - Set of students
+INFO    2024-06-15 01:38:10,997 [main] collectionExamples.CollectionCustomExample:77 - 3 Diksha
+INFO    2024-06-15 01:38:10,997 [main] collectionExamples.CollectionCustomExample:77 - 5 Karina
+INFO    2024-06-15 01:38:17,708 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:38:17,724 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:38:17,724 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:38:17,724 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:38:17,724 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:38:17,724 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:38:17,724 [main] collectionExamples.CollectionCustomExample:75 - Set of students
+INFO    2024-06-15 01:38:32,898 [main] collectionExamples.CollectionCustomExample:77 - 4 Karina
+INFO    2024-06-15 01:38:44,605 [main] collectionExamples.CollectionCustomExample:77 - 3 Diksha
+INFO    2024-06-15 01:39:00,298 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:39:00,445 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:39:00,445 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:39:00,445 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:39:00,445 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:39:00,445 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:39:00,445 [main] collectionExamples.CollectionCustomExample:75 - Set of students
+INFO    2024-06-15 01:39:03,756 [main] collectionExamples.CollectionCustomExample:77 - 2 Sahil
+INFO    2024-06-15 01:39:18,113 [main] collectionExamples.CollectionCustomExample:77 - 5 Karina
+INFO    2024-06-15 01:40:08,732 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:40:08,763 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:40:08,763 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:40:08,763 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:40:08,763 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:40:08,763 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:40:08,763 [main] collectionExamples.CollectionCustomExample:67 - 1 Diksha
+INFO    2024-06-15 01:40:08,763 [main] collectionExamples.CollectionCustomExample:67 - 3 Vishal
+INFO    2024-06-15 01:41:17,075 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:41:17,091 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:41:17,091 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:41:17,091 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:41:17,091 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:41:17,091 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:41:21,927 [main] collectionExamples.CollectionCustomExample:67 - 1 Diksha
+INFO    2024-06-15 01:41:25,597 [main] collectionExamples.CollectionCustomExample:67 - 3 Vishal
+INFO    2024-06-15 01:42:15,240 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:42:15,272 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:42:15,272 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:42:15,272 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:42:15,272 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:42:15,272 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:42:19,463 [main] collectionExamples.CollectionCustomExample:62 - List of students
+INFO    2024-06-15 01:42:19,479 [main] collectionExamples.CollectionCustomExample:64 - 1 Karina
+INFO    2024-06-15 01:42:19,479 [main] collectionExamples.CollectionCustomExample:64 - 2 Diksha
+INFO    2024-06-15 01:42:19,479 [main] collectionExamples.CollectionCustomExample:64 - 3 Sahil
+INFO    2024-06-15 01:42:19,479 [main] collectionExamples.CollectionCustomExample:64 - 4 Vishal
+INFO    2024-06-15 01:42:19,479 [main] collectionExamples.CollectionCustomExample:64 - 5 Gunjan
+INFO    2024-06-15 01:43:19,720 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 01:43:19,736 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 01:43:19,736 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 01:43:19,736 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 01:43:19,736 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 01:43:19,736 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 01:44:15,500 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 01:44:15,515 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 01:44:15,515 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 01:44:15,515 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 01:44:15,515 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 01:44:15,515 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 01:44:58,180 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 01:45:08,559 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 01:45:13,585 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 01:45:20,465 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 01:45:22,665 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 01:45:25,418 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 01:47:03,646 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 01:47:03,678 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 01:47:03,678 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 01:47:03,678 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 01:47:03,678 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 01:47:03,678 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 01:50:55,461 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 01:50:55,477 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 01:50:55,477 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 01:50:55,477 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 01:50:55,477 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 01:50:55,477 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 01:50:55,477 [main] collectionExamples.CollectionCustomExample:67 - Line 66:1 Diksha
+INFO    2024-06-15 01:50:55,477 [main] collectionExamples.CollectionCustomExample:67 - Line 66:3 Vishal
+INFO    2024-06-15 01:54:26,599 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 01:54:26,631 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 01:54:26,631 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 01:54:26,631 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 01:54:26,631 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 01:54:26,631 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 01:54:26,631 [main] collectionExamples.CollectionCustomExample:68 - 1 Diksha
+INFO    2024-06-15 01:54:26,631 [main] collectionExamples.CollectionCustomExample:68 - 3 Vishal
+INFO    2024-06-15 01:55:26,961 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 01:55:26,976 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 01:55:26,976 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 01:55:26,976 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 01:55:26,976 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 01:55:26,976 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 01:55:26,976 [main] collectionExamples.CollectionCustomExample:67 - 1 Diksha
+INFO    2024-06-15 01:55:26,976 [main] collectionExamples.CollectionCustomExample:68 - 3 Vishal
+INFO    2024-06-15 01:56:15,611 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 01:56:15,626 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 01:56:15,626 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 01:56:15,626 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 01:56:15,626 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 01:56:15,626 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 01:56:15,626 [main] collectionExamples.CollectionCustomExample:68 - java.util.ArrayList$ListItr@4f4a7090
+INFO    2024-06-15 01:56:15,626 [main] collectionExamples.CollectionCustomExample:70 - 1 Diksha
+INFO    2024-06-15 01:56:15,626 [main] collectionExamples.CollectionCustomExample:71 - 3 Vishal
+INFO    2024-06-15 02:00:45,788 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:71 - Line 66:1 Karina
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:71 - Line 66:2 Diksha
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:71 - Line 66:3 Sahil
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:71 - Line 66:4 Vishal
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:71 - Line 66:5 Gunjan
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:82 - Set of students
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:85 - 2 Diksha
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:85 - 1 Karina
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:85 - 4 Vishal
+INFO    2024-06-15 02:00:45,866 [main] collectionExamples.CollectionCustomExample:85 - 3 Sahil
+INFO    2024-06-15 02:00:45,882 [main] collectionExamples.CollectionCustomExample:85 - 5 Gunjan
+INFO    2024-06-15 02:00:45,882 [main] collectionExamples.CollectionCustomExample:94 - Student with id 2 and name:Diksha is mapped to student with id:2 and name:Diksha
+INFO    2024-06-15 02:00:45,882 [main] collectionExamples.CollectionCustomExample:94 - Student with id 1 and name:Karina is mapped to student with id:1 and name:Karina
+INFO    2024-06-15 02:00:45,882 [main] collectionExamples.CollectionCustomExample:94 - Student with id 4 and name:Vishal is mapped to student with id:4 and name:Vishal
+INFO    2024-06-15 02:01:48,474 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 02:01:48,490 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 02:01:48,490 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 02:01:48,490 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 02:01:48,490 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 02:01:48,490 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:71 - Line 66:1 Karina
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:71 - Line 66:2 Diksha
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:71 - Line 66:3 Sahil
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:71 - Line 66:4 Vishal
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:71 - Line 66:5 Gunjan
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:82 - Set of students
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:85 - 2 Diksha
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:85 - 1 Karina
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:85 - 4 Vishal
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:85 - 3 Sahil
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:85 - 5 Gunjan
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:94 - Student with id 2 and name:Diksha is mapped to student with id:3 and name:Sahil
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:94 - Student with id 1 and name:Karina is mapped to student with id:2 and name:Diksha
+INFO    2024-06-15 02:01:48,506 [main] collectionExamples.CollectionCustomExample:94 - Student with id 4 and name:Vishal is mapped to student with id:5 and name:Gunjan
+INFO    2024-06-15 02:01:56,761 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:71 - 1 Karina
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:71 - 2 Diksha
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:71 - 3 Sahil
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:71 - 4 Vishal
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:71 - 5 Gunjan
+INFO    2024-06-15 02:01:56,781 [main] collectionExamples.CollectionCustomExample:82 - Set of students
+INFO    2024-06-15 02:01:56,796 [main] collectionExamples.CollectionCustomExample:85 - 2 Diksha
+INFO    2024-06-15 02:01:56,796 [main] collectionExamples.CollectionCustomExample:85 - 1 Karina
+INFO    2024-06-15 02:01:56,796 [main] collectionExamples.CollectionCustomExample:85 - 4 Vishal
+INFO    2024-06-15 02:01:56,796 [main] collectionExamples.CollectionCustomExample:85 - 3 Sahil
+INFO    2024-06-15 02:01:56,796 [main] collectionExamples.CollectionCustomExample:85 - 5 Gunjan
+INFO    2024-06-15 02:01:56,796 [main] collectionExamples.CollectionCustomExample:94 - Student with id 2 and name:Diksha is mapped to student with id:3 and name:Sahil
+INFO    2024-06-15 02:01:56,796 [main] collectionExamples.CollectionCustomExample:94 - Student with id 1 and name:Karina is mapped to student with id:2 and name:Diksha
+INFO    2024-06-15 02:01:56,796 [main] collectionExamples.CollectionCustomExample:94 - Student with id 4 and name:Vishal is mapped to student with id:5 and name:Gunjan
+INFO    2024-06-15 02:02:37,956 [main] collectionExamples.CollectionCustomExample:61 - List of students
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:63 - 1 Karina
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:63 - 2 Diksha
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:63 - 3 Sahil
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:63 - 4 Vishal
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:63 - 5 Gunjan
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:71 - 1 Karina
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:71 - 2 Diksha
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:71 - 3 Sahil
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:71 - 4 Vishal
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:71 - 5 Gunjan
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:82 - Set of students
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:85 - 2 Diksha
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:85 - 1 Karina
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:85 - 4 Vishal
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:85 - 3 Sahil
+INFO    2024-06-15 02:02:37,989 [main] collectionExamples.CollectionCustomExample:85 - 5 Gunjan
+INFO    2024-06-15 02:02:38,003 [main] collectionExamples.CollectionCustomExample:94 - Student with id 1 and name:Karina is mapped to student with id:2 and name:Diksha
+INFO    2024-06-15 02:02:38,003 [main] collectionExamples.CollectionCustomExample:94 - Student with id 3 and name:Sahil is mapped to student with id:4 and name:Vishal
+INFO    2024-06-15 02:02:38,003 [main] collectionExamples.CollectionCustomExample:94 - Student with id 5 and name:Gunjan is mapped to student with id:6 and name:Neeta
+INFO    2024-06-15 16:41:26,726 [main] collectionExamples.SortCustomObjectsComparable:65 - List of students:[collectionExamples.Student@5ecddf8f, collectionExamples.Student@3f102e87, collectionExamples.Student@27abe2cd, collectionExamples.Student@5f5a92bb, collectionExamples.Student@6fdb1f78]
+INFO    2024-06-15 16:41:26,735 [main] collectionExamples.SortCustomObjectsComparable:68 - List of students after sorting using comparable interface:[collectionExamples.Student@3f102e87, collectionExamples.Student@5ecddf8f, collectionExamples.Student@6fdb1f78, collectionExamples.Student@27abe2cd, collectionExamples.Student@5f5a92bb]
+INFO    2024-06-15 16:43:11,942 [main] collectionExamples.SortCustomObjectsComparable:65 - List of students:
+INFO    2024-06-15 16:43:11,964 [main] collectionExamples.SortCustomObjectsComparable:67 - 16 Karina
+INFO    2024-06-15 16:43:11,964 [main] collectionExamples.SortCustomObjectsComparable:67 - 5 Vishal
+INFO    2024-06-15 16:43:11,964 [main] collectionExamples.SortCustomObjectsComparable:67 - 20 Diksha
+INFO    2024-06-15 16:43:11,964 [main] collectionExamples.SortCustomObjectsComparable:67 - 22 Girish
+INFO    2024-06-15 16:43:11,965 [main] collectionExamples.SortCustomObjectsComparable:67 - 16 Vanshita
+INFO    2024-06-15 16:43:11,965 [main] collectionExamples.SortCustomObjectsComparable:70 - List of students after sorting using comparable interface:
+INFO    2024-06-15 16:43:11,966 [main] collectionExamples.SortCustomObjectsComparable:72 - 5 Vishal
+INFO    2024-06-15 16:43:11,966 [main] collectionExamples.SortCustomObjectsComparable:72 - 16 Karina
+INFO    2024-06-15 16:43:11,966 [main] collectionExamples.SortCustomObjectsComparable:72 - 16 Vanshita
+INFO    2024-06-15 16:43:11,968 [main] collectionExamples.SortCustomObjectsComparable:72 - 20 Diksha
+INFO    2024-06-15 16:43:11,968 [main] collectionExamples.SortCustomObjectsComparable:72 - 22 Girish
+INFO    2024-06-15 16:45:21,436 [main] collectionExamples.SortCustomObjectsComparable:65 - List of students:
+INFO    2024-06-15 16:45:21,695 [main] collectionExamples.SortCustomObjectsComparable:67 - 16 Karina
+INFO    2024-06-15 16:45:21,695 [main] collectionExamples.SortCustomObjectsComparable:67 - 5 Vishal
+INFO    2024-06-15 16:45:21,696 [main] collectionExamples.SortCustomObjectsComparable:67 - 20 Diksha
+INFO    2024-06-15 16:45:21,696 [main] collectionExamples.SortCustomObjectsComparable:67 - 22 Girish
+INFO    2024-06-15 16:45:21,696 [main] collectionExamples.SortCustomObjectsComparable:67 - 16 Vanshita
+INFO    2024-06-15 16:45:21,696 [main] collectionExamples.SortCustomObjectsComparable:70 - List of students after sorting using comparable interface according to their ids:
+INFO    2024-06-15 16:45:21,697 [main] collectionExamples.SortCustomObjectsComparable:72 - 5 Vishal
+INFO    2024-06-15 16:45:21,697 [main] collectionExamples.SortCustomObjectsComparable:72 - 16 Vanshita
+INFO    2024-06-15 16:45:21,697 [main] collectionExamples.SortCustomObjectsComparable:72 - 16 Karina
+INFO    2024-06-15 16:45:21,699 [main] collectionExamples.SortCustomObjectsComparable:72 - 20 Diksha
+INFO    2024-06-15 16:45:21,699 [main] collectionExamples.SortCustomObjectsComparable:72 - 22 Girish
+INFO    2024-06-15 16:45:34,918 [main] collectionExamples.SortCustomObjectsComparable:65 - List of students:
+INFO    2024-06-15 16:45:34,936 [main] collectionExamples.SortCustomObjectsComparable:67 - 16 Karina
+INFO    2024-06-15 16:45:34,936 [main] collectionExamples.SortCustomObjectsComparable:67 - 5 Vishal
+INFO    2024-06-15 16:45:34,937 [main] collectionExamples.SortCustomObjectsComparable:67 - 20 Diksha
+INFO    2024-06-15 16:45:34,937 [main] collectionExamples.SortCustomObjectsComparable:67 - 22 Girish
+INFO    2024-06-15 16:45:34,937 [main] collectionExamples.SortCustomObjectsComparable:67 - 16 Vanshita
+INFO    2024-06-15 16:45:34,937 [main] collectionExamples.SortCustomObjectsComparable:70 - List of students after sorting using comparable interface according to their ids:
+INFO    2024-06-15 16:45:34,937 [main] collectionExamples.SortCustomObjectsComparable:72 - 5 Vishal
+INFO    2024-06-15 16:45:34,937 [main] collectionExamples.SortCustomObjectsComparable:72 - 16 Vanshita
+INFO    2024-06-15 16:45:34,938 [main] collectionExamples.SortCustomObjectsComparable:72 - 16 Karina
+INFO    2024-06-15 16:45:34,940 [main] collectionExamples.SortCustomObjectsComparable:72 - 20 Diksha
+INFO    2024-06-15 16:45:34,940 [main] collectionExamples.SortCustomObjectsComparable:72 - 22 Girish
+INFO    2024-06-15 16:48:06,008 [main] collectionExamples.SortCustomObjectsComparable:65 - List of students:
+INFO    2024-06-15 16:48:06,024 [main] collectionExamples.SortCustomObjectsComparable:67 - 16 Karina
+INFO    2024-06-15 16:48:06,024 [main] collectionExamples.SortCustomObjectsComparable:67 - 5 Vishal
+INFO    2024-06-15 16:48:06,024 [main] collectionExamples.SortCustomObjectsComparable:67 - 20 Diksha
+INFO    2024-06-15 16:48:06,025 [main] collectionExamples.SortCustomObjectsComparable:67 - 22 Girish
+INFO    2024-06-15 16:48:06,025 [main] collectionExamples.SortCustomObjectsComparable:67 - 16 Vanshita
+INFO    2024-06-15 16:48:06,025 [main] collectionExamples.SortCustomObjectsComparable:70 - List of students after sorting using comparable interface according to their ids:
+INFO    2024-06-15 16:48:06,026 [main] collectionExamples.SortCustomObjectsComparable:72 - 5 Vishal
+INFO    2024-06-15 16:48:06,026 [main] collectionExamples.SortCustomObjectsComparable:72 - 16 Karina
+INFO    2024-06-15 16:48:06,026 [main] collectionExamples.SortCustomObjectsComparable:72 - 16 Vanshita
+INFO    2024-06-15 16:48:06,026 [main] collectionExamples.SortCustomObjectsComparable:72 - 20 Diksha
+INFO    2024-06-15 16:48:06,026 [main] collectionExamples.SortCustomObjectsComparable:72 - 22 Girish
+INFO    2024-06-15 17:12:52,860 [main] collectionExamples.SortCustomObjectsComparator:35 - List of students:
+INFO    2024-06-15 17:12:52,903 [main] collectionExamples.SortCustomObjectsComparator:37 - 16 Karina
+INFO    2024-06-15 17:12:52,903 [main] collectionExamples.SortCustomObjectsComparator:37 - 20 Diksha
+INFO    2024-06-15 17:12:52,903 [main] collectionExamples.SortCustomObjectsComparator:37 - 10 Sahil
+INFO    2024-06-15 17:12:52,903 [main] collectionExamples.SortCustomObjectsComparator:37 - 5 Vishal
+INFO    2024-06-15 17:12:52,903 [main] collectionExamples.SortCustomObjectsComparator:37 - 3 Gunjan
+INFO    2024-06-15 17:12:52,909 [main] collectionExamples.SortCustomObjectsComparator:37 - 25 Neeta
+INFO    2024-06-15 17:12:52,910 [main] collectionExamples.SortCustomObjectsComparator:48 - Sorting students using comparator according to their ids:
+INFO    2024-06-15 17:12:52,910 [main] collectionExamples.SortCustomObjectsComparator:50 - 3 Gunjan
+INFO    2024-06-15 17:12:52,910 [main] collectionExamples.SortCustomObjectsComparator:50 - 5 Vishal
+INFO    2024-06-15 17:12:52,910 [main] collectionExamples.SortCustomObjectsComparator:50 - 10 Sahil
+INFO    2024-06-15 17:12:52,910 [main] collectionExamples.SortCustomObjectsComparator:50 - 16 Karina
+INFO    2024-06-15 17:12:52,910 [main] collectionExamples.SortCustomObjectsComparator:50 - 20 Diksha
+INFO    2024-06-15 17:12:52,910 [main] collectionExamples.SortCustomObjectsComparator:50 - 25 Neeta
+INFO    2024-06-15 17:15:38,119 [main] collectionExamples.SortCustomObjectsComparator:35 - List of students:
+INFO    2024-06-15 17:15:38,146 [main] collectionExamples.SortCustomObjectsComparator:37 - 16 Karina
+INFO    2024-06-15 17:15:38,146 [main] collectionExamples.SortCustomObjectsComparator:37 - 20 Diksha
+INFO    2024-06-15 17:15:38,146 [main] collectionExamples.SortCustomObjectsComparator:37 - 10 Sahil
+INFO    2024-06-15 17:15:38,146 [main] collectionExamples.SortCustomObjectsComparator:37 - 5 Vishal
+INFO    2024-06-15 17:15:38,146 [main] collectionExamples.SortCustomObjectsComparator:37 - 3 Gunjan
+INFO    2024-06-15 17:15:38,146 [main] collectionExamples.SortCustomObjectsComparator:37 - 3 Neeta
+INFO    2024-06-15 17:15:38,146 [main] collectionExamples.SortCustomObjectsComparator:48 - Sorting students using comparator according to their ids:
+INFO    2024-06-15 17:15:38,146 [main] collectionExamples.SortCustomObjectsComparator:50 - 3 Gunjan
+INFO    2024-06-15 17:15:38,154 [main] collectionExamples.SortCustomObjectsComparator:50 - 3 Neeta
+INFO    2024-06-15 17:15:38,154 [main] collectionExamples.SortCustomObjectsComparator:50 - 5 Vishal
+INFO    2024-06-15 17:15:38,154 [main] collectionExamples.SortCustomObjectsComparator:50 - 10 Sahil
+INFO    2024-06-15 17:15:38,154 [main] collectionExamples.SortCustomObjectsComparator:50 - 16 Karina
+INFO    2024-06-15 17:15:38,154 [main] collectionExamples.SortCustomObjectsComparator:50 - 20 Diksha
+INFO    2024-06-16 01:52:44,375 [Thread-0] corejava.MultithreadingExample:10 - Table of 5:
+INFO    2024-06-16 01:52:44,375 [Thread-1] corejava.MultithreadingExample:18 - Table of 10:
+INFO    2024-06-16 01:52:44,388 [Thread-1] corejava.MultithreadingExample:20 - 10*1=10
+INFO    2024-06-16 01:52:44,388 [Thread-1] corejava.MultithreadingExample:20 - 10*2=20
+INFO    2024-06-16 01:52:44,392 [Thread-1] corejava.MultithreadingExample:20 - 10*3=30
+INFO    2024-06-16 01:52:44,392 [Thread-1] corejava.MultithreadingExample:20 - 10*4=40
+INFO    2024-06-16 01:52:44,393 [Thread-1] corejava.MultithreadingExample:20 - 10*5=50
+INFO    2024-06-16 01:52:44,388 [Thread-0] corejava.MultithreadingExample:12 - 5*1=5
+INFO    2024-06-16 01:52:44,393 [Thread-0] corejava.MultithreadingExample:12 - 5*2=10
+INFO    2024-06-16 01:52:44,393 [Thread-0] corejava.MultithreadingExample:12 - 5*3=15
+INFO    2024-06-16 01:52:44,393 [Thread-0] corejava.MultithreadingExample:12 - 5*4=20
+INFO    2024-06-16 01:52:44,393 [Thread-0] corejava.MultithreadingExample:12 - 5*5=25
+INFO    2024-06-16 01:52:44,393 [Thread-0] corejava.MultithreadingExample:12 - 5*6=30
+INFO    2024-06-16 01:52:44,393 [Thread-1] corejava.MultithreadingExample:20 - 10*6=60
+INFO    2024-06-16 01:52:44,394 [Thread-1] corejava.MultithreadingExample:20 - 10*7=70
+INFO    2024-06-16 01:52:44,393 [Thread-0] corejava.MultithreadingExample:12 - 5*7=35
+INFO    2024-06-16 01:52:44,394 [Thread-0] corejava.MultithreadingExample:12 - 5*8=40
+INFO    2024-06-16 01:52:44,394 [Thread-0] corejava.MultithreadingExample:12 - 5*9=45
+INFO    2024-06-16 01:52:44,394 [Thread-1] corejava.MultithreadingExample:20 - 10*8=80
+INFO    2024-06-16 01:52:44,394 [Thread-1] corejava.MultithreadingExample:20 - 10*9=90
+INFO    2024-06-16 01:52:44,395 [Thread-1] corejava.MultithreadingExample:20 - 10*10=100
+INFO    2024-06-16 01:52:44,394 [Thread-0] corejava.MultithreadingExample:12 - 5*10=50
+INFO    2024-06-16 01:54:00,947 [Thread-0] corejava.MultithreadingExample:10 - Table of 5 from thread1:
+INFO    2024-06-16 01:54:00,968 [Thread-0] corejava.MultithreadingExample:12 - 5*1=5
+INFO    2024-06-16 01:54:00,968 [Thread-0] corejava.MultithreadingExample:12 - 5*2=10
+INFO    2024-06-16 01:54:00,968 [Thread-0] corejava.MultithreadingExample:12 - 5*3=15
+INFO    2024-06-16 01:54:00,968 [Thread-0] corejava.MultithreadingExample:12 - 5*4=20
+INFO    2024-06-16 01:54:00,968 [Thread-0] corejava.MultithreadingExample:12 - 5*5=25
+INFO    2024-06-16 01:54:00,968 [Thread-0] corejava.MultithreadingExample:12 - 5*6=30
+INFO    2024-06-16 01:54:00,968 [Thread-0] corejava.MultithreadingExample:12 - 5*7=35
+INFO    2024-06-16 01:54:00,968 [Thread-0] corejava.MultithreadingExample:12 - 5*8=40
+INFO    2024-06-16 01:54:00,968 [Thread-0] corejava.MultithreadingExample:12 - 5*9=45
+INFO    2024-06-16 01:54:00,968 [Thread-0] corejava.MultithreadingExample:12 - 5*10=50
+INFO    2024-06-16 01:54:00,987 [Thread-1] corejava.MultithreadingExample:18 - Table of 10 from thread2:
+INFO    2024-06-16 01:54:00,989 [Thread-1] corejava.MultithreadingExample:20 - 10*1=10
+INFO    2024-06-16 01:54:00,989 [Thread-1] corejava.MultithreadingExample:20 - 10*2=20
+INFO    2024-06-16 01:54:00,989 [Thread-1] corejava.MultithreadingExample:20 - 10*3=30
+INFO    2024-06-16 01:54:00,989 [Thread-1] corejava.MultithreadingExample:20 - 10*4=40
+INFO    2024-06-16 01:54:00,989 [Thread-1] corejava.MultithreadingExample:20 - 10*5=50
+INFO    2024-06-16 01:54:00,993 [Thread-1] corejava.MultithreadingExample:20 - 10*6=60
+INFO    2024-06-16 01:54:00,993 [Thread-1] corejava.MultithreadingExample:20 - 10*7=70
+INFO    2024-06-16 01:54:00,993 [Thread-1] corejava.MultithreadingExample:20 - 10*8=80
+INFO    2024-06-16 01:54:00,993 [Thread-1] corejava.MultithreadingExample:20 - 10*9=90
+INFO    2024-06-16 01:54:00,997 [Thread-1] corejava.MultithreadingExample:20 - 10*10=100
+INFO    2024-06-16 01:54:19,434 [Thread-0] corejava.MultithreadingExample:10 - Table of 5 from thread1:
+INFO    2024-06-16 01:54:19,434 [Thread-1] corejava.MultithreadingExample:18 - Table of 10 from thread2:
+INFO    2024-06-16 01:54:19,454 [Thread-0] corejava.MultithreadingExample:12 - 5*1=5
+INFO    2024-06-16 01:54:19,454 [Thread-0] corejava.MultithreadingExample:12 - 5*2=10
+INFO    2024-06-16 01:54:19,456 [Thread-0] corejava.MultithreadingExample:12 - 5*3=15
+INFO    2024-06-16 01:54:19,456 [Thread-0] corejava.MultithreadingExample:12 - 5*4=20
+INFO    2024-06-16 01:54:19,458 [Thread-0] corejava.MultithreadingExample:12 - 5*5=25
+INFO    2024-06-16 01:54:19,458 [Thread-0] corejava.MultithreadingExample:12 - 5*6=30
+INFO    2024-06-16 01:54:19,454 [Thread-1] corejava.MultithreadingExample:20 - 10*1=10
+INFO    2024-06-16 01:54:19,459 [Thread-1] corejava.MultithreadingExample:20 - 10*2=20
+INFO    2024-06-16 01:54:19,459 [Thread-1] corejava.MultithreadingExample:20 - 10*3=30
+INFO    2024-06-16 01:54:19,459 [Thread-0] corejava.MultithreadingExample:12 - 5*7=35
+INFO    2024-06-16 01:54:19,459 [Thread-1] corejava.MultithreadingExample:20 - 10*4=40
+INFO    2024-06-16 01:54:19,459 [Thread-0] corejava.MultithreadingExample:12 - 5*8=40
+INFO    2024-06-16 01:54:19,460 [Thread-0] corejava.MultithreadingExample:12 - 5*9=45
+INFO    2024-06-16 01:54:19,460 [Thread-0] corejava.MultithreadingExample:12 - 5*10=50
+INFO    2024-06-16 01:54:19,460 [Thread-1] corejava.MultithreadingExample:20 - 10*5=50
+INFO    2024-06-16 01:54:19,460 [Thread-1] corejava.MultithreadingExample:20 - 10*6=60
+INFO    2024-06-16 01:54:19,460 [Thread-1] corejava.MultithreadingExample:20 - 10*7=70
+INFO    2024-06-16 01:54:19,460 [Thread-1] corejava.MultithreadingExample:20 - 10*8=80
+INFO    2024-06-16 01:54:19,460 [Thread-1] corejava.MultithreadingExample:20 - 10*9=90
+INFO    2024-06-16 01:54:19,460 [Thread-1] corejava.MultithreadingExample:20 - 10*10=100
+INFO    2024-06-16 01:59:59,364 [Thread-1] corejava.MultithreadingExample:29 - Table of 10 from thread2:
+INFO    2024-06-16 01:59:59,368 [Thread-0] corejava.MultithreadingExample:16 - Table of 5 from thread1:
+INFO    2024-06-16 01:59:59,393 [Thread-0] corejava.MultithreadingExample:18 - 5*1=5
+INFO    2024-06-16 01:59:59,410 [Thread-0] corejava.MultithreadingExample:18 - 5*2=10
+INFO    2024-06-16 01:59:59,410 [Thread-0] corejava.MultithreadingExample:18 - 5*3=15
+INFO    2024-06-16 01:59:59,411 [Thread-0] corejava.MultithreadingExample:18 - 5*4=20
+INFO    2024-06-16 01:59:59,411 [Thread-0] corejava.MultithreadingExample:18 - 5*5=25
+INFO    2024-06-16 01:59:59,411 [Thread-0] corejava.MultithreadingExample:18 - 5*6=30
+INFO    2024-06-16 01:59:59,412 [Thread-0] corejava.MultithreadingExample:18 - 5*7=35
+INFO    2024-06-16 01:59:59,412 [Thread-0] corejava.MultithreadingExample:18 - 5*8=40
+INFO    2024-06-16 01:59:59,412 [Thread-0] corejava.MultithreadingExample:18 - 5*9=45
+INFO    2024-06-16 01:59:59,412 [Thread-0] corejava.MultithreadingExample:18 - 5*10=50
+INFO    2024-06-16 01:59:59,408 [Thread-1] corejava.MultithreadingExample:31 - 10*1=10
+INFO    2024-06-16 01:59:59,414 [Thread-1] corejava.MultithreadingExample:31 - 10*2=20
+INFO    2024-06-16 01:59:59,414 [Thread-1] corejava.MultithreadingExample:31 - 10*3=30
+INFO    2024-06-16 01:59:59,414 [Thread-1] corejava.MultithreadingExample:31 - 10*4=40
+INFO    2024-06-16 01:59:59,414 [Thread-1] corejava.MultithreadingExample:31 - 10*5=50
+INFO    2024-06-16 01:59:59,414 [Thread-1] corejava.MultithreadingExample:31 - 10*6=60
+INFO    2024-06-16 01:59:59,414 [Thread-1] corejava.MultithreadingExample:31 - 10*7=70
+INFO    2024-06-16 01:59:59,414 [Thread-1] corejava.MultithreadingExample:31 - 10*8=80
+INFO    2024-06-16 01:59:59,414 [Thread-1] corejava.MultithreadingExample:31 - 10*9=90
+INFO    2024-06-16 01:59:59,414 [Thread-1] corejava.MultithreadingExample:31 - 10*10=100
+INFO    2024-06-16 02:00:50,902 [Thread-1] corejava.MultithreadingExample:29 - Table of 10 from thread2:
+INFO    2024-06-16 02:00:50,903 [Thread-0] corejava.MultithreadingExample:16 - Table of 5 from thread1:
+INFO    2024-06-16 02:00:51,011 [Thread-1] corejava.MultithreadingExample:31 - 10*1=10
+INFO    2024-06-16 02:00:51,012 [Thread-1] corejava.MultithreadingExample:31 - 10*2=20
+INFO    2024-06-16 02:00:51,012 [Thread-1] corejava.MultithreadingExample:31 - 10*3=30
+INFO    2024-06-16 02:00:51,012 [Thread-1] corejava.MultithreadingExample:31 - 10*4=40
+INFO    2024-06-16 02:00:51,012 [Thread-1] corejava.MultithreadingExample:31 - 10*5=50
+INFO    2024-06-16 02:00:51,012 [Thread-1] corejava.MultithreadingExample:31 - 10*6=60
+INFO    2024-06-16 02:00:51,012 [Thread-1] corejava.MultithreadingExample:31 - 10*7=70
+INFO    2024-06-16 02:00:51,012 [Thread-1] corejava.MultithreadingExample:31 - 10*8=80
+INFO    2024-06-16 02:00:51,013 [Thread-1] corejava.MultithreadingExample:31 - 10*9=90
+INFO    2024-06-16 02:00:51,013 [Thread-1] corejava.MultithreadingExample:31 - 10*10=100
+INFO    2024-06-16 02:00:51,013 [Thread-0] corejava.MultithreadingExample:18 - 5*1=5
+INFO    2024-06-16 02:00:51,013 [Thread-0] corejava.MultithreadingExample:18 - 5*2=10
+INFO    2024-06-16 02:00:51,013 [Thread-0] corejava.MultithreadingExample:18 - 5*3=15
+INFO    2024-06-16 02:00:51,013 [Thread-0] corejava.MultithreadingExample:18 - 5*4=20
+INFO    2024-06-16 02:00:51,014 [Thread-0] corejava.MultithreadingExample:18 - 5*5=25
+INFO    2024-06-16 02:00:51,014 [Thread-0] corejava.MultithreadingExample:18 - 5*6=30
+INFO    2024-06-16 02:00:51,014 [Thread-0] corejava.MultithreadingExample:18 - 5*7=35
+INFO    2024-06-16 02:00:51,014 [Thread-0] corejava.MultithreadingExample:18 - 5*8=40
+INFO    2024-06-16 02:00:51,014 [Thread-0] corejava.MultithreadingExample:18 - 5*9=45
+INFO    2024-06-16 02:00:51,014 [Thread-0] corejava.MultithreadingExample:18 - 5*10=50
+INFO    2024-06-16 02:01:13,803 [Thread-1] corejava.MultithreadingExample:29 - Table of 10 from thread2:
+INFO    2024-06-16 02:01:13,803 [Thread-0] corejava.MultithreadingExample:16 - Table of 5 from thread1:
+INFO    2024-06-16 02:01:13,838 [Thread-0] corejava.MultithreadingExample:18 - 5*1=5
+INFO    2024-06-16 02:01:13,840 [Thread-0] corejava.MultithreadingExample:18 - 5*2=10
+INFO    2024-06-16 02:01:13,840 [Thread-0] corejava.MultithreadingExample:18 - 5*3=15
+INFO    2024-06-16 02:01:13,840 [Thread-0] corejava.MultithreadingExample:18 - 5*4=20
+INFO    2024-06-16 02:01:13,840 [Thread-0] corejava.MultithreadingExample:18 - 5*5=25
+INFO    2024-06-16 02:01:13,840 [Thread-0] corejava.MultithreadingExample:18 - 5*6=30
+INFO    2024-06-16 02:01:13,840 [Thread-0] corejava.MultithreadingExample:18 - 5*7=35
+INFO    2024-06-16 02:01:13,840 [Thread-0] corejava.MultithreadingExample:18 - 5*8=40
+INFO    2024-06-16 02:01:13,840 [Thread-0] corejava.MultithreadingExample:18 - 5*9=45
+INFO    2024-06-16 02:01:13,838 [Thread-1] corejava.MultithreadingExample:31 - 10*1=10
+INFO    2024-06-16 02:01:13,841 [Thread-1] corejava.MultithreadingExample:31 - 10*2=20
+INFO    2024-06-16 02:01:13,840 [Thread-0] corejava.MultithreadingExample:18 - 5*10=50
+INFO    2024-06-16 02:01:13,841 [Thread-1] corejava.MultithreadingExample:31 - 10*3=30
+INFO    2024-06-16 02:01:13,841 [Thread-1] corejava.MultithreadingExample:31 - 10*4=40
+INFO    2024-06-16 02:01:13,841 [Thread-1] corejava.MultithreadingExample:31 - 10*5=50
+INFO    2024-06-16 02:01:13,841 [Thread-1] corejava.MultithreadingExample:31 - 10*6=60
+INFO    2024-06-16 02:01:13,841 [Thread-1] corejava.MultithreadingExample:31 - 10*7=70
+INFO    2024-06-16 02:01:13,841 [Thread-1] corejava.MultithreadingExample:31 - 10*8=80
+INFO    2024-06-16 02:01:13,841 [Thread-1] corejava.MultithreadingExample:31 - 10*9=90
+INFO    2024-06-16 02:01:13,842 [Thread-1] corejava.MultithreadingExample:31 - 10*10=100
+INFO    2024-06-17 00:25:50,905 [main] corejava.VolatileKeywordExample:45 - Value of counter:0
+INFO    2024-06-17 00:25:50,911 [main] corejava.VolatileKeywordExample:47 - Value of counter as seen by thread 1:1
+INFO    2024-06-17 00:25:50,911 [main] corejava.VolatileKeywordExample:48 - Value of counter as seen by thread 2:1
+INFO    2024-06-17 00:28:12,579 [main] corejava.VolatileKeywordExample:45 - Value of counter as seen by thread 1:0
+INFO    2024-06-17 00:28:12,589 [main] corejava.VolatileKeywordExample:46 - Value of counter as seen by thread 2:0
+INFO    2024-06-17 00:28:12,589 [main] corejava.VolatileKeywordExample:48 - Incrementing the counter by thread1
+INFO    2024-06-17 00:28:12,589 [main] corejava.VolatileKeywordExample:50 - Value of counter as seen by thread 1:1
+INFO    2024-06-17 00:28:12,589 [main] corejava.VolatileKeywordExample:51 - Value of counter as seen by thread 2:1
+INFO    2024-06-17 00:28:12,589 [main] corejava.VolatileKeywordExample:53 - Incrementing the counter by thread2
+INFO    2024-06-17 00:28:12,589 [main] corejava.VolatileKeywordExample:55 - Value of counter as seen by thread 1:2
+INFO    2024-06-17 00:28:12,589 [main] corejava.VolatileKeywordExample:56 - Value of counter as seen by thread 2:2
+INFO    2024-06-17 00:47:20,622 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*1=6
+INFO    2024-06-17 00:47:20,629 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*2=12
+INFO    2024-06-17 00:47:20,629 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*3=18
+INFO    2024-06-17 00:47:20,629 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*4=24
+INFO    2024-06-17 00:47:20,629 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*5=30
+INFO    2024-06-17 00:47:20,630 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*6=36
+INFO    2024-06-17 00:47:20,630 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*7=42
+INFO    2024-06-17 00:47:20,630 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*8=48
+INFO    2024-06-17 00:47:20,631 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*9=54
+INFO    2024-06-17 00:47:20,631 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*10=60
+INFO    2024-06-17 00:47:20,624 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*1=5
+INFO    2024-06-17 00:47:20,631 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*2=10
+INFO    2024-06-17 00:47:20,631 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*3=15
+INFO    2024-06-17 00:47:20,631 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*4=20
+INFO    2024-06-17 00:47:20,631 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*5=25
+INFO    2024-06-17 00:47:20,631 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*6=30
+INFO    2024-06-17 00:47:20,631 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*7=35
+INFO    2024-06-17 00:47:20,631 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*8=40
+INFO    2024-06-17 00:47:20,631 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*9=45
+INFO    2024-06-17 00:47:20,631 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*10=50
+INFO    2024-06-17 00:47:37,987 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*1=6
+INFO    2024-06-17 00:47:38,001 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*2=12
+INFO    2024-06-17 00:47:38,002 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*3=18
+INFO    2024-06-17 00:47:38,002 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*4=24
+INFO    2024-06-17 00:47:38,002 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*5=30
+INFO    2024-06-17 00:47:38,002 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*6=36
+INFO    2024-06-17 00:47:38,002 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*7=42
+INFO    2024-06-17 00:47:38,002 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*8=48
+INFO    2024-06-17 00:47:38,002 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*9=54
+INFO    2024-06-17 00:47:38,002 [Thread-1] corejava.SynchronizedMethodExample:17 - 6*10=60
+INFO    2024-06-17 00:47:37,993 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*1=5
+INFO    2024-06-17 00:47:38,008 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*2=10
+INFO    2024-06-17 00:47:38,008 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*3=15
+INFO    2024-06-17 00:47:38,008 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*4=20
+INFO    2024-06-17 00:47:38,008 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*5=25
+INFO    2024-06-17 00:47:38,008 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*6=30
+INFO    2024-06-17 00:47:38,008 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*7=35
+INFO    2024-06-17 00:47:38,008 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*8=40
+INFO    2024-06-17 00:47:38,008 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*9=45
+INFO    2024-06-17 00:47:38,008 [Thread-0] corejava.SynchronizedMethodExample:17 - 5*10=50
+INFO    2024-06-17 00:50:35,450 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*1=6
+INFO    2024-06-17 00:50:35,454 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*2=12
+INFO    2024-06-17 00:50:35,459 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*3=18
+INFO    2024-06-17 00:50:35,459 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*4=24
+INFO    2024-06-17 00:50:35,459 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*5=30
+INFO    2024-06-17 00:50:35,459 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*6=36
+INFO    2024-06-17 00:50:35,459 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*7=42
+INFO    2024-06-17 00:50:35,459 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*8=48
+INFO    2024-06-17 00:50:35,459 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*9=54
+INFO    2024-06-17 00:50:35,459 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*10=60
+INFO    2024-06-17 00:50:35,459 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*1=5
+INFO    2024-06-17 00:50:35,459 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*2=10
+INFO    2024-06-17 00:50:35,459 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*3=15
+INFO    2024-06-17 00:50:35,459 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*4=20
+INFO    2024-06-17 00:50:35,459 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*5=25
+INFO    2024-06-17 00:50:35,459 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*6=30
+INFO    2024-06-17 00:50:35,459 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*7=35
+INFO    2024-06-17 00:50:35,459 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*8=40
+INFO    2024-06-17 00:50:35,459 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*9=45
+INFO    2024-06-17 00:50:35,459 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*10=50
+INFO    2024-06-17 00:54:10,616 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*1=5
+INFO    2024-06-17 00:54:10,622 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*1=6
+INFO    2024-06-17 00:54:11,132 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*2=10
+INFO    2024-06-17 00:54:11,132 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*2=12
+INFO    2024-06-17 00:54:11,640 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*3=18
+INFO    2024-06-17 00:54:11,640 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*3=15
+INFO    2024-06-17 00:54:12,145 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*4=24
+INFO    2024-06-17 00:54:12,145 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*4=20
+INFO    2024-06-17 00:54:12,647 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*5=30
+INFO    2024-06-17 00:54:12,649 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*5=25
+INFO    2024-06-17 00:54:13,151 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*6=36
+INFO    2024-06-17 00:54:13,152 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*6=30
+INFO    2024-06-17 00:54:13,866 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*7=42
+INFO    2024-06-17 00:54:13,875 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*7=35
+INFO    2024-06-17 00:54:14,387 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*8=48
+INFO    2024-06-17 00:54:14,387 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*8=40
+INFO    2024-06-17 00:54:14,889 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*9=54
+INFO    2024-06-17 00:54:14,897 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*9=45
+INFO    2024-06-17 00:54:15,403 [Thread-0] corejava.SynchronizedMethodExample:11 - 5*10=50
+INFO    2024-06-17 00:54:15,403 [Thread-1] corejava.SynchronizedMethodExample:11 - 6*10=60
+INFO    2024-06-17 00:56:04,150 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*1=5
+INFO    2024-06-17 00:56:04,659 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*2=10
+INFO    2024-06-17 00:56:05,160 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*3=15
+INFO    2024-06-17 00:56:05,662 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*4=20
+INFO    2024-06-17 00:56:06,163 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*5=25
+INFO    2024-06-17 00:56:06,665 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*6=30
+INFO    2024-06-17 00:56:07,277 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*7=35
+INFO    2024-06-17 00:56:07,779 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*8=40
+INFO    2024-06-17 00:56:08,286 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*9=45
+INFO    2024-06-17 00:56:08,791 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*10=50
+INFO    2024-06-17 00:56:09,300 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*1=6
+INFO    2024-06-17 00:56:09,802 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*2=12
+INFO    2024-06-17 00:56:10,305 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*3=18
+INFO    2024-06-17 00:56:10,814 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*4=24
+INFO    2024-06-17 00:56:11,326 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*5=30
+INFO    2024-06-17 00:56:11,836 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*6=36
+INFO    2024-06-17 00:56:12,344 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*7=42
+INFO    2024-06-17 00:56:12,846 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*8=48
+INFO    2024-06-17 00:56:13,346 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*9=54
+INFO    2024-06-17 00:56:13,854 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*10=60
+INFO    2024-06-17 01:57:56,579 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*1=5
+INFO    2024-06-17 01:57:57,086 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*2=10
+INFO    2024-06-17 01:57:57,597 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*3=15
+INFO    2024-06-17 01:57:58,109 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*4=20
+INFO    2024-06-17 01:57:58,621 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*5=25
+INFO    2024-06-17 01:57:59,130 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*6=30
+INFO    2024-06-17 01:57:59,676 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*7=35
+INFO    2024-06-17 01:58:00,190 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*8=40
+INFO    2024-06-17 01:58:00,693 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*9=45
+INFO    2024-06-17 01:58:01,204 [Thread-0] corejava.SynchronizedMethodExample:12 - 5*10=50
+INFO    2024-06-17 01:58:01,714 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*1=6
+INFO    2024-06-17 01:58:02,218 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*2=12
+INFO    2024-06-17 01:58:02,774 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*3=18
+INFO    2024-06-17 01:58:03,290 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*4=24
+INFO    2024-06-17 01:58:03,795 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*5=30
+INFO    2024-06-17 01:58:04,305 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*6=36
+INFO    2024-06-17 01:58:04,810 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*7=42
+INFO    2024-06-17 01:58:05,327 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*8=48
+INFO    2024-06-17 01:58:05,833 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*9=54
+INFO    2024-06-17 01:58:06,335 [Thread-1] corejava.SynchronizedMethodExample:12 - 6*10=60
+INFO    2024-06-17 01:58:57,223 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*1=5
+INFO    2024-06-17 01:58:57,731 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*2=10
+INFO    2024-06-17 01:58:58,232 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*3=15
+INFO    2024-06-17 01:58:58,765 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*4=20
+INFO    2024-06-17 01:58:59,274 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*5=25
+INFO    2024-06-17 01:58:59,786 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*6=30
+INFO    2024-06-17 01:59:00,300 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*7=35
+INFO    2024-06-17 01:59:00,810 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*8=40
+INFO    2024-06-17 01:59:01,323 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*9=45
+INFO    2024-06-17 01:59:01,835 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*10=50
+INFO    2024-06-17 01:59:02,348 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*1=6
+INFO    2024-06-17 01:59:02,372 [Thread-0] corejava.SynchronizedMethodExample:40 - Factorial of 5is:120
+INFO    2024-06-17 01:59:02,864 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*2=12
+INFO    2024-06-17 01:59:03,370 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*3=18
+INFO    2024-06-17 01:59:03,882 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*4=24
+INFO    2024-06-17 01:59:04,389 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*5=30
+INFO    2024-06-17 01:59:04,901 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*6=36
+INFO    2024-06-17 01:59:05,416 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*7=42
+INFO    2024-06-17 01:59:05,930 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*8=48
+INFO    2024-06-17 01:59:06,442 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*9=54
+INFO    2024-06-17 01:59:06,955 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*10=60
+INFO    2024-06-17 01:59:07,460 [Thread-1] corejava.SynchronizedMethodExample:40 - Factorial of 6is:720
+INFO    2024-06-17 01:59:20,130 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*1=6
+INFO    2024-06-17 01:59:20,672 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*2=12
+INFO    2024-06-17 01:59:21,183 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*3=18
+INFO    2024-06-17 01:59:21,695 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*4=24
+INFO    2024-06-17 01:59:22,206 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*5=30
+INFO    2024-06-17 01:59:22,723 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*6=36
+INFO    2024-06-17 01:59:23,505 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*7=42
+INFO    2024-06-17 01:59:24,484 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*8=48
+INFO    2024-06-17 01:59:25,423 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*9=54
+INFO    2024-06-17 01:59:26,094 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*10=60
+INFO    2024-06-17 01:59:26,613 [Thread-1] corejava.SynchronizedMethodExample:40 - Factorial of 6is:720
+INFO    2024-06-17 01:59:26,623 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*1=5
+INFO    2024-06-17 01:59:27,385 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*2=10
+INFO    2024-06-17 01:59:28,212 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*3=15
+INFO    2024-06-17 01:59:28,716 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*4=20
+INFO    2024-06-17 01:59:29,231 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*5=25
+INFO    2024-06-17 01:59:29,732 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*6=30
+INFO    2024-06-17 01:59:30,244 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*7=35
+INFO    2024-06-17 01:59:30,758 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*8=40
+INFO    2024-06-17 01:59:31,272 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*9=45
+INFO    2024-06-17 01:59:31,777 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*10=50
+INFO    2024-06-17 01:59:32,287 [Thread-0] corejava.SynchronizedMethodExample:40 - Factorial of 5is:120
+INFO    2024-06-17 02:00:11,343 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*1=5
+INFO    2024-06-17 02:00:11,860 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*2=10
+INFO    2024-06-17 02:00:12,378 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*3=15
+INFO    2024-06-17 02:00:12,886 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*4=20
+INFO    2024-06-17 02:00:13,396 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*5=25
+INFO    2024-06-17 02:00:13,907 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*6=30
+INFO    2024-06-17 02:00:14,410 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*7=35
+INFO    2024-06-17 02:00:14,918 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*8=40
+INFO    2024-06-17 02:00:15,419 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*9=45
+INFO    2024-06-17 02:00:15,930 [Thread-0] corejava.SynchronizedMethodExample:13 - 5*10=50
+INFO    2024-06-17 02:00:16,442 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*1=6
+INFO    2024-06-17 02:00:16,463 [Thread-0] corejava.SynchronizedMethodExample:40 - Factorial of 5is:120
+INFO    2024-06-17 02:00:16,954 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*2=12
+INFO    2024-06-17 02:00:17,465 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*3=18
+INFO    2024-06-17 02:00:17,979 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*4=24
+INFO    2024-06-17 02:00:18,495 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*5=30
+INFO    2024-06-17 02:00:19,003 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*6=36
+INFO    2024-06-17 02:00:19,508 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*7=42
+INFO    2024-06-17 02:00:20,018 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*8=48
+INFO    2024-06-17 02:00:20,532 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*9=54
+INFO    2024-06-17 02:00:21,044 [Thread-1] corejava.SynchronizedMethodExample:13 - 6*10=60
+INFO    2024-06-17 02:00:21,559 [Thread-1] corejava.SynchronizedMethodExample:40 - Factorial of 6is:720
+INFO    2024-06-17 02:10:46,129 [Thread-0] corejava.SynchronizedMethodExample:14 - 5*1=5
+INFO    2024-06-17 02:10:46,663 [Thread-0] corejava.SynchronizedMethodExample:14 - 5*2=10
+INFO    2024-06-17 02:10:47,242 [Thread-0] corejava.SynchronizedMethodExample:14 - 5*3=15
+INFO    2024-06-17 02:10:47,757 [Thread-0] corejava.SynchronizedMethodExample:14 - 5*4=20
+INFO    2024-06-17 02:10:48,265 [Thread-0] corejava.SynchronizedMethodExample:14 - 5*5=25
+INFO    2024-06-17 02:10:48,780 [Thread-0] corejava.SynchronizedMethodExample:14 - 5*6=30
+INFO    2024-06-17 02:10:49,282 [Thread-0] corejava.SynchronizedMethodExample:14 - 5*7=35
+INFO    2024-06-17 02:10:49,794 [Thread-0] corejava.SynchronizedMethodExample:14 - 5*8=40
+INFO    2024-06-17 02:10:50,296 [Thread-0] corejava.SynchronizedMethodExample:14 - 5*9=45
+INFO    2024-06-17 02:10:50,806 [Thread-0] corejava.SynchronizedMethodExample:14 - 5*10=50
+INFO    2024-06-17 02:10:51,316 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*1=6
+INFO    2024-06-17 02:10:51,338 [Thread-0] corejava.SynchronizedMethodExample:46 - Factorial of 5is:120
+INFO    2024-06-17 02:10:51,823 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*2=12
+INFO    2024-06-17 02:10:52,332 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*3=18
+INFO    2024-06-17 02:10:52,834 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*4=24
+INFO    2024-06-17 02:10:53,348 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*5=30
+INFO    2024-06-17 02:10:53,863 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*6=36
+INFO    2024-06-17 02:10:54,367 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*7=42
+INFO    2024-06-17 02:10:54,870 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*8=48
+INFO    2024-06-17 02:10:55,373 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*9=54
+INFO    2024-06-17 02:10:55,898 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*10=60
+INFO    2024-06-17 02:10:56,400 [Thread-1] corejava.SynchronizedMethodExample:46 - Factorial of 6is:720
