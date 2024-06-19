@@ -1,0 +1,20 @@
+DEBUG   2024-06-01 18:15:17,742 [main] LogsPractise  - This is a debug message
+INFO    2024-06-01 18:15:17,747 [main] LogsPractise  - This is an info message
+WARN    2024-06-01 18:15:17,747 [main] LogsPractise  - This is a warn message
+ERROR   2024-06-01 18:15:17,747 [main] LogsPractise  - This is an error message
+DEBUG   2024-06-01 18:15:17,747 [main] com.example.service  - Service debug message
+INFO    2024-06-01 18:15:17,747 [main] com.example.service  - Service info message
+WARN    2024-06-01 18:15:17,747 [main] com.example.service  - Service warn message
+DEBUG   2024-06-01 18:15:17,747 [main] com.example.dao  - DAO debug message
+INFO    2024-06-01 18:15:17,747 [main] com.example.dao  - DAO info message
+WARN    2024-06-01 18:15:17,747 [main] com.example.dao  - DAO warn message
+DEBUG   2024-06-03 18:56:16,169 [main] LogsPractise  - This is a debug message
+INFO    2024-06-03 18:56:16,169 [main] LogsPractise  - This is an info message
+WARN    2024-06-03 18:56:16,169 [main] LogsPractise  - This is a warn message
+ERROR   2024-06-03 18:56:16,169 [main] LogsPractise  - This is an error message
+DEBUG   2024-06-03 18:56:16,173 [main] com.example.service  - Service debug message
+INFO    2024-06-03 18:56:16,173 [main] com.example.service  - Service info message
+WARN    2024-06-03 18:56:16,173 [main] com.example.service  - Service warn message
+DEBUG   2024-06-03 18:56:16,173 [main] com.example.dao  - DAO debug message
+INFO    2024-06-03 18:56:16,173 [main] com.example.dao  - DAO info message
+WARN    2024-06-03 18:56:16,173 [main] com.example.dao  - DAO warn message

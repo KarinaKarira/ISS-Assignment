@@ -1327,3 +1327,28 @@ INFO    2024-06-17 02:10:54,870 [Thread-1] corejava.SynchronizedMethodExample:14
 INFO    2024-06-17 02:10:55,373 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*9=54
 INFO    2024-06-17 02:10:55,898 [Thread-1] corejava.SynchronizedMethodExample:14 - 6*10=60
 INFO    2024-06-17 02:10:56,400 [Thread-1] corejava.SynchronizedMethodExample:46 - Factorial of 6is:720
+INFO    2024-06-19 15:34:37,988 [main] database.PreparedStatementExample:31 - Connected to the database
+INFO    2024-06-19 15:44:08,527 [main] database.PreparedStatementExample:29 - Connected to the database
+INFO    2024-06-19 15:44:57,145 [main] database.PreparedStatementExample:29 - Connected to the database
+INFO    2024-06-19 15:44:57,865 [main] database.PreparedStatementExample:40 - Monisha
+INFO    2024-06-19 15:44:57,865 [main] database.PreparedStatementExample:41 - 40000.0
+INFO    2024-06-19 15:44:57,865 [main] database.PreparedStatementExample:42 - 3.0
+INFO    2024-06-19 15:44:57,865 [main] database.PreparedStatementExample:43 - 3.0
+INFO    2024-06-19 15:46:44,844 [main] database.PreparedStatementExample:29 - Connected to the database
+INFO    2024-06-19 15:46:45,611 [main] database.PreparedStatementExample:40 - Name of the employee:Monisha
+INFO    2024-06-19 15:46:45,611 [main] database.PreparedStatementExample:41 - Salary:40000.0
+INFO    2024-06-19 15:46:45,611 [main] database.PreparedStatementExample:42 - Id of the department3.0
+INFO    2024-06-19 15:46:45,611 [main] database.PreparedStatementExample:43 - Id of the manager3.0
+INFO    2024-06-19 15:48:24,504 [main] database.PreparedStatementExample:29 - Connected to the database
+INFO    2024-06-19 15:48:25,029 [main] database.PreparedStatementExample:40 - Name of the employee:Monisha
+INFO    2024-06-19 15:48:25,029 [main] database.PreparedStatementExample:41 - Salary:40000.0
+INFO    2024-06-19 15:48:25,029 [main] database.PreparedStatementExample:42 - Id of the department:3
+INFO    2024-06-19 15:48:25,029 [main] database.PreparedStatementExample:43 - Id of the manager:3
+INFO    2024-06-19 15:58:37,741 [main] database.CallableStatementExample:29 - Connected to the database
+INFO    2024-06-19 16:00:05,029 [main] database.CallableStatementExample:29 - Connected to the database
+INFO    2024-06-19 16:00:06,062 [main] database.CallableStatementExample:41 - Employee added to the table
+INFO    2024-06-19 16:15:57,477 [main] database.CallableStatementExample:29 - Connected to the database
+INFO    2024-06-19 16:15:58,324 [main] database.CallableStatementExample:44 - Name of the employee:Monisha
+INFO    2024-06-19 16:15:58,324 [main] database.CallableStatementExample:45 - Salary of the employee:40000.0
+INFO    2024-06-19 16:15:58,324 [main] database.CallableStatementExample:46 - Name of the department:TECHNOLOGY
+INFO    2024-06-19 16:15:58,324 [main] database.CallableStatementExample:47 - Name of the manager:Pratham
