@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Form</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Bootstrap JS and dependencies -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
+</head>
+<body>
+    <div class="form-container">
+        <form onsubmit="validateForm(event)">
+            <fieldset>
+                <legend>Practice Form</legend>
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <label for="age">Age:</label>
+                    <input type="number" id="age" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <label for="contactNo">Contact No:</label>
+                    <input type="number" id="contactNo" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <label for="city">City:</label>
+                    <select id="city" class="form-control">
+                        <option value="select">Select a city</option>
+                        <option value="Mumbai">Mumbai</option>
+                        <option value="Thane">Thane</option>
+                        <option value="Kalyan">Kalyan</option>
+                        <option value="Pune">Pune</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Gender:</label>
+                    <div class="radio-group">
+                        <label for="Male">Male</label>
+                        <input type="radio" name="gender" id="Male" value="Male">
+                        <label for="Female">Female</label>
+                        <input type="radio" name="gender" id="Female" value="Female">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Languages known:</label>
+                    <div class="checkbox-group">
+                        <label for="english">English</label>
+                        <input type="checkbox" id="english">
+                        <label for="hindi">Hindi</label>
+                        <input type="checkbox" id="hindi">
+                        <label for="sindhi">Sindhi</label>
+                        <input type="checkbox" id="sindhi">
+                        <label for="none">None</label>
+                        <input type="checkbox" id="none">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="address">Address:</label>
+                    <textarea id="address" rows="5" class="form-control"></textarea>
+                </div>
+
+                <input type="submit" class="btn btn-primary btn-submit">
+
+                <p id="error" class="text-center text-danger fw-bolder"></p>
+                <p id="success" class="text-center text-success fw-bold"></p>
+            </fieldset>
+        </form>
+    </div>
+
+</body>
+</html>
