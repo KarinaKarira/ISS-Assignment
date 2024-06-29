@@ -1352,3 +1352,6 @@ INFO    2024-06-19 16:15:58,324 [main] database.CallableStatementExample:44 - Na
 INFO    2024-06-19 16:15:58,324 [main] database.CallableStatementExample:45 - Salary of the employee:40000.0
 INFO    2024-06-19 16:15:58,324 [main] database.CallableStatementExample:46 - Name of the department:TECHNOLOGY
 INFO    2024-06-19 16:15:58,324 [main] database.CallableStatementExample:47 - Name of the manager:Pratham
+INFO    2024-06-29 06:59:11,936 [main] database.CallableStatementExample:22 - File created: demoFile.txt
+INFO    2024-06-29 06:59:11,952 [main] database.CallableStatementExample:40 - Successfully written.
+INFO    2024-06-29 06:59:12,046 [main] database.CallableStatementExample:53 - Writing to the demo file created
